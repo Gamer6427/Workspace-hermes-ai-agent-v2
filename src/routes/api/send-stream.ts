@@ -19,6 +19,7 @@ import {
 import { getChatMode } from '../../server/gateway-capabilities'
 import { appendLocalMessage, ensureLocalSession, getLocalMessages, touchLocalSession } from '../../server/local-session-store'
 import { getDiscoveredModels, getLocalProviderDef } from '../../server/local-provider-discovery'
+import { isClaudeGptModel, streamClaudeGpt } from '../../server/claude-gpt-provider'
 import { openaiChat } from '../../server/openai-compat-api'
 import { streamResponses } from '../../server/responses-api'
 import { selectPortableConversationHistory } from '../../server/portable-history'
@@ -364,6 +365,9 @@ export const Route = createFileRoute('/api/send-stream')({
               localBaseUrl = providerDef.baseUrl
             }
           }
+          if (!localMatch && isClaudeGptModel(requestModel)) {
+            chatMode = 'portable'
+          }
         }
         if (chatMode === 'portable' && sessionKey === 'new') {
           sessionKey = crypto.randomUUID()
@@ -592,6 +596,69 @@ export const Route = createFileRoute('/api/send-stream')({
                       content: userContent,
                     },
                   ]
+
+                  // Handle claude-gpt custom API (claude-opus-4.7, claude-opus-4.8)
+                  if (isClaudeGptModel(requestModel)) {
+                    const userText =
+                      typeof body.message === 'string' ? body.message.trim() : ''
+                    lastActivity = 'Calling Claude-GPT...'
+                    try {
+                      for await (const chunk of streamClaudeGpt(
+                        requestModel,
+                        userText,
+                        abortController.signal,
+                      )) {
+                        accumulated += chunk
+                        persistActiveRun((runSessionKey, activeId) =>
+                          appendRunText(runSessionKey, activeId, accumulated, {
+                            replace: true,
+                          }),
+                        )
+                        sendEvent('chunk', {
+                          text: accumulated,
+                          fullReplace: true,
+                          sessionKey: portableSessionKey,
+                          runId,
+                        })
+                      }
+                      appendLocalMessage(portableSessionKey, {
+                        id: crypto.randomUUID(),
+                        role: 'assistant',
+                        content: accumulated,
+                        timestamp: Date.now(),
+                      })
+                      touchLocalSession(portableSessionKey)
+                      persistActiveRun((runSessionKey, activeId) =>
+                        markRunStatus(runSessionKey, activeId, 'complete'),
+                      )
+                      sendEvent('done', {
+                        state: 'complete',
+                        sessionKey: portableSessionKey,
+                        runId,
+                        message: {
+                          role: 'assistant',
+                          content: [{ type: 'text', text: accumulated }],
+                        },
+                      })
+                      closeStream()
+                      return
+                    } catch (err) {
+                      const errMsg =
+                        err instanceof Error ? err.message : String(err)
+                      console.error('[send-stream] claude-gpt error:', errMsg)
+                      persistActiveRun((runSessionKey, activeId) =>
+                        markRunStatus(runSessionKey, activeId, 'error'),
+                      )
+                      sendEvent('error', {
+                        error: errMsg,
+                        sessionKey: portableSessionKey,
+                        runId,
+                      })
+                      closeStream()
+                      return
+                    }
+                  }
+
                   // Vanilla Hermes Agent (>=v0.12.x) ships a structured
                   // Responses-API streaming surface at POST /v1/responses
                   // that carries full tool args + results, unlike the

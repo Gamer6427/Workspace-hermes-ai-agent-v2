@@ -15,6 +15,7 @@ import {
   ensureProviderInConfig,
   getDiscoveredModels,
 } from '../../server/local-provider-discovery'
+import { CLAUDE_GPT_MODEL_IDS } from '../../server/claude-gpt-provider'
 
 const CLAUDE_HOME = process.env.HERMES_HOME ?? process.env.CLAUDE_HOME ?? path.join(os.homedir(), '.hermes')
 const MODELS_PATH = path.join(CLAUDE_HOME, 'models.json')
@@ -80,6 +81,19 @@ export function mergeModelEntries(...sources: Array<Array<ModelEntry>>): Array<M
   }
 
   return merged
+}
+
+/**
+ * Return the static claude-gpt model entries (always available when MODEL_API_TOKEN is set).
+ */
+function getClaudeGptStaticModels(): Array<ModelEntry> {
+  if (!process.env.MODEL_API_TOKEN) return []
+  return CLAUDE_GPT_MODEL_IDS.map((id) => ({
+    id,
+    name: id === 'claude-opus-4.7' ? 'Claude Opus 4.7' : 'Claude Opus 4.8',
+    provider: 'claude-gpt',
+    source: 'static',
+  }))
 }
 
 /**
@@ -465,6 +479,12 @@ export const Route = createFileRoute('/api/models')({
           models = mergeModelEntries(models, localModels)
           for (const m of localModels) {
             ensureProviderInConfig(m.provider)
+          }
+
+          // Merge static claude-gpt models (available when MODEL_API_TOKEN is set)
+          const claudeGptModels = getClaudeGptStaticModels()
+          if (claudeGptModels.length > 0) {
+            models = mergeModelEntries(models, claudeGptModels)
           }
 
           const configuredProviders = Array.from(

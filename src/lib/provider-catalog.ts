@@ -157,6 +157,27 @@ export const PROVIDER_CATALOG: Array<ProviderInfo> = [
       2,
     ),
   },
+  {
+    id: 'claude-gpt',
+    name: 'Claude-GPT',
+    description: 'Claude Opus 4.7 and 4.8 via the claude-gpt proxy endpoint.',
+    authTypes: ['api-key'],
+    docsUrl: 'https://claude-gpt-by-noneusr.onrender.com',
+    configExample: JSON.stringify(
+      {
+        auth: {
+          profiles: {
+            'claude-gpt:default': {
+              provider: 'claude-gpt',
+              apiKey: 'your-model-api-token',
+            },
+          },
+        },
+      },
+      null,
+      2,
+    ),
+  },
 ]
 
 export function normalizeProviderId(value: string): string {
