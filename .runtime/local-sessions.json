@@ -1,0 +1,2714 @@
+{
+  "sessions": {
+    "test-audit-47": {
+      "id": "test-audit-47",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674490599,
+      "updatedAt": 1781674496550,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.7-1781674515723": {
+      "id": "audit-claude-opus-4.7-1781674515723",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674515848,
+      "updatedAt": 1781674519347,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.7-1781674519351": {
+      "id": "audit-claude-opus-4.7-1781674519351",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674519361,
+      "updatedAt": 1781674523770,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.7-1781674523772": {
+      "id": "audit-claude-opus-4.7-1781674523772",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674523780,
+      "updatedAt": 1781674528516,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.7-1781674528518": {
+      "id": "audit-claude-opus-4.7-1781674528518",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674528532,
+      "updatedAt": 1781674535048,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.7-1781674535050": {
+      "id": "audit-claude-opus-4.7-1781674535050",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674535131,
+      "updatedAt": 1781674538602,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.7-1781674538605": {
+      "id": "audit-claude-opus-4.7-1781674538605",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674538612,
+      "updatedAt": 1781674544041,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.7-1781674544044": {
+      "id": "audit-claude-opus-4.7-1781674544044",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674544059,
+      "updatedAt": 1781674552847,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.8-1781674552852": {
+      "id": "audit-claude-opus-4.8-1781674552852",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674552996,
+      "updatedAt": 1781674557016,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.8-1781674557017": {
+      "id": "audit-claude-opus-4.8-1781674557017",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674557030,
+      "updatedAt": 1781674560816,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.8-1781674560819": {
+      "id": "audit-claude-opus-4.8-1781674560819",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674560825,
+      "updatedAt": 1781674564774,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.8-1781674564775": {
+      "id": "audit-claude-opus-4.8-1781674564775",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674564780,
+      "updatedAt": 1781674569965,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.8-1781674569968": {
+      "id": "audit-claude-opus-4.8-1781674569968",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674570061,
+      "updatedAt": 1781674575528,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.8-1781674575530": {
+      "id": "audit-claude-opus-4.8-1781674575530",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674575539,
+      "updatedAt": 1781674579654,
+      "messageCount": 2
+    },
+    "audit-claude-opus-4.8-1781674579657": {
+      "id": "audit-claude-opus-4.8-1781674579657",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674579667,
+      "updatedAt": 1781674588537,
+      "messageCount": 2
+    },
+    "err-long": {
+      "id": "err-long",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674590844,
+      "updatedAt": 1781674595545,
+      "messageCount": 2
+    },
+    "stress-0": {
+      "id": "stress-0",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597360,
+      "updatedAt": 1781674604005,
+      "messageCount": 2
+    },
+    "stress-1": {
+      "id": "stress-1",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597363,
+      "updatedAt": 1781674606315,
+      "messageCount": 2
+    },
+    "stress-2": {
+      "id": "stress-2",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597366,
+      "updatedAt": 1781674604876,
+      "messageCount": 2
+    },
+    "stress-3": {
+      "id": "stress-3",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597368,
+      "updatedAt": 1781674608097,
+      "messageCount": 2
+    },
+    "stress-4": {
+      "id": "stress-4",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597370,
+      "updatedAt": 1781674601332,
+      "messageCount": 2
+    },
+    "stress-5": {
+      "id": "stress-5",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597372,
+      "updatedAt": 1781674608026,
+      "messageCount": 2
+    },
+    "stress-6": {
+      "id": "stress-6",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597376,
+      "updatedAt": 1781674603837,
+      "messageCount": 2
+    },
+    "stress-7": {
+      "id": "stress-7",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597379,
+      "updatedAt": 1781674608480,
+      "messageCount": 2
+    },
+    "stress-8": {
+      "id": "stress-8",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597381,
+      "updatedAt": 1781674606466,
+      "messageCount": 2
+    },
+    "stress-9": {
+      "id": "stress-9",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597383,
+      "updatedAt": 1781674608488,
+      "messageCount": 2
+    },
+    "stress-10": {
+      "id": "stress-10",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597386,
+      "updatedAt": 1781674603507,
+      "messageCount": 2
+    },
+    "stress-11": {
+      "id": "stress-11",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597388,
+      "updatedAt": 1781674608398,
+      "messageCount": 2
+    },
+    "stress-12": {
+      "id": "stress-12",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597391,
+      "updatedAt": 1781674607402,
+      "messageCount": 2
+    },
+    "stress-13": {
+      "id": "stress-13",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597393,
+      "updatedAt": 1781674610008,
+      "messageCount": 2
+    },
+    "stress-14": {
+      "id": "stress-14",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597395,
+      "updatedAt": 1781674606006,
+      "messageCount": 2
+    },
+    "stress-15": {
+      "id": "stress-15",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597398,
+      "updatedAt": 1781674608620,
+      "messageCount": 2
+    },
+    "stress-16": {
+      "id": "stress-16",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597400,
+      "updatedAt": 1781674605944,
+      "messageCount": 2
+    },
+    "stress-17": {
+      "id": "stress-17",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597402,
+      "updatedAt": 1781674609657,
+      "messageCount": 2
+    },
+    "stress-18": {
+      "id": "stress-18",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674597404,
+      "updatedAt": 1781674606584,
+      "messageCount": 2
+    },
+    "stress-19": {
+      "id": "stress-19",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674597406,
+      "updatedAt": 1781674607401,
+      "messageCount": 2
+    },
+    "session-10msg-1781674685569": {
+      "id": "session-10msg-1781674685569",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674685791,
+      "updatedAt": 1781674724801,
+      "messageCount": 20
+    },
+    "switch-test-1781674726714-claude-opus-4.7": {
+      "id": "switch-test-1781674726714-claude-opus-4.7",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674726779,
+      "updatedAt": 1781674740629,
+      "messageCount": 4
+    },
+    "switch-test-1781674726714-claude-opus-4.8": {
+      "id": "switch-test-1781674726714-claude-opus-4.8",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674731335,
+      "updatedAt": 1781674744509,
+      "messageCount": 4
+    },
+    "stress50-1": {
+      "id": "stress50-1",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845577,
+      "updatedAt": 1781674862821,
+      "messageCount": 2
+    },
+    "stress50-2": {
+      "id": "stress50-2",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845587,
+      "updatedAt": 1781674852168,
+      "messageCount": 2
+    },
+    "stress50-3": {
+      "id": "stress50-3",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845590,
+      "updatedAt": 1781674845591,
+      "messageCount": 1
+    },
+    "stress50-0": {
+      "id": "stress50-0",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845594,
+      "updatedAt": 1781674856691,
+      "messageCount": 2
+    },
+    "stress50-4": {
+      "id": "stress50-4",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845597,
+      "updatedAt": 1781674856595,
+      "messageCount": 2
+    },
+    "stress50-6": {
+      "id": "stress50-6",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845600,
+      "updatedAt": 1781674854557,
+      "messageCount": 2
+    },
+    "stress50-5": {
+      "id": "stress50-5",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845603,
+      "updatedAt": 1781674857899,
+      "messageCount": 2
+    },
+    "stress50-7": {
+      "id": "stress50-7",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845606,
+      "updatedAt": 1781674860568,
+      "messageCount": 2
+    },
+    "stress50-9": {
+      "id": "stress50-9",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845609,
+      "updatedAt": 1781674845610,
+      "messageCount": 1
+    },
+    "stress50-10": {
+      "id": "stress50-10",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845612,
+      "updatedAt": 1781674857425,
+      "messageCount": 2
+    },
+    "stress50-8": {
+      "id": "stress50-8",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845614,
+      "updatedAt": 1781674854865,
+      "messageCount": 2
+    },
+    "stress50-12": {
+      "id": "stress50-12",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845617,
+      "updatedAt": 1781674855463,
+      "messageCount": 2
+    },
+    "stress50-14": {
+      "id": "stress50-14",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845621,
+      "updatedAt": 1781674855090,
+      "messageCount": 2
+    },
+    "stress50-15": {
+      "id": "stress50-15",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845624,
+      "updatedAt": 1781674861037,
+      "messageCount": 2
+    },
+    "stress50-16": {
+      "id": "stress50-16",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845627,
+      "updatedAt": 1781674855723,
+      "messageCount": 2
+    },
+    "stress50-13": {
+      "id": "stress50-13",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845631,
+      "updatedAt": 1781674859304,
+      "messageCount": 2
+    },
+    "stress50-11": {
+      "id": "stress50-11",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845634,
+      "updatedAt": 1781674845636,
+      "messageCount": 1
+    },
+    "stress50-17": {
+      "id": "stress50-17",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845637,
+      "updatedAt": 1781674860308,
+      "messageCount": 2
+    },
+    "stress50-19": {
+      "id": "stress50-19",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845641,
+      "updatedAt": 1781674861442,
+      "messageCount": 2
+    },
+    "stress50-20": {
+      "id": "stress50-20",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845644,
+      "updatedAt": 1781674854605,
+      "messageCount": 2
+    },
+    "stress50-21": {
+      "id": "stress50-21",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845647,
+      "updatedAt": 1781674845649,
+      "messageCount": 1
+    },
+    "stress50-18": {
+      "id": "stress50-18",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845651,
+      "updatedAt": 1781674856434,
+      "messageCount": 2
+    },
+    "stress50-22": {
+      "id": "stress50-22",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845654,
+      "updatedAt": 1781674845669,
+      "messageCount": 1
+    },
+    "stress50-23": {
+      "id": "stress50-23",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845672,
+      "updatedAt": 1781674845673,
+      "messageCount": 1
+    },
+    "stress50-24": {
+      "id": "stress50-24",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845677,
+      "updatedAt": 1781674857631,
+      "messageCount": 2
+    },
+    "stress50-25": {
+      "id": "stress50-25",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845681,
+      "updatedAt": 1781674860475,
+      "messageCount": 2
+    },
+    "stress50-26": {
+      "id": "stress50-26",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845684,
+      "updatedAt": 1781674855218,
+      "messageCount": 2
+    },
+    "stress50-27": {
+      "id": "stress50-27",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845687,
+      "updatedAt": 1781674864262,
+      "messageCount": 2
+    },
+    "stress50-30": {
+      "id": "stress50-30",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845691,
+      "updatedAt": 1781674845692,
+      "messageCount": 1
+    },
+    "stress50-29": {
+      "id": "stress50-29",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845695,
+      "updatedAt": 1781674845696,
+      "messageCount": 1
+    },
+    "stress50-28": {
+      "id": "stress50-28",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845698,
+      "updatedAt": 1781674845699,
+      "messageCount": 1
+    },
+    "stress50-31": {
+      "id": "stress50-31",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845705,
+      "updatedAt": 1781674860446,
+      "messageCount": 2
+    },
+    "stress50-32": {
+      "id": "stress50-32",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845710,
+      "updatedAt": 1781674845712,
+      "messageCount": 1
+    },
+    "stress50-33": {
+      "id": "stress50-33",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845717,
+      "updatedAt": 1781674845718,
+      "messageCount": 1
+    },
+    "stress50-34": {
+      "id": "stress50-34",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845721,
+      "updatedAt": 1781674845728,
+      "messageCount": 1
+    },
+    "stress50-35": {
+      "id": "stress50-35",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845745,
+      "updatedAt": 1781674845748,
+      "messageCount": 1
+    },
+    "stress50-36": {
+      "id": "stress50-36",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845757,
+      "updatedAt": 1781674856051,
+      "messageCount": 2
+    },
+    "stress50-38": {
+      "id": "stress50-38",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845769,
+      "updatedAt": 1781674856995,
+      "messageCount": 2
+    },
+    "stress50-37": {
+      "id": "stress50-37",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845801,
+      "updatedAt": 1781674860154,
+      "messageCount": 2
+    },
+    "stress50-39": {
+      "id": "stress50-39",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845808,
+      "updatedAt": 1781674845809,
+      "messageCount": 1
+    },
+    "stress50-41": {
+      "id": "stress50-41",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845824,
+      "updatedAt": 1781674862365,
+      "messageCount": 2
+    },
+    "stress50-42": {
+      "id": "stress50-42",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845830,
+      "updatedAt": 1781674859938,
+      "messageCount": 2
+    },
+    "stress50-43": {
+      "id": "stress50-43",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845843,
+      "updatedAt": 1781674860474,
+      "messageCount": 2
+    },
+    "stress50-44": {
+      "id": "stress50-44",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845858,
+      "updatedAt": 1781674845864,
+      "messageCount": 1
+    },
+    "stress50-40": {
+      "id": "stress50-40",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845877,
+      "updatedAt": 1781674845881,
+      "messageCount": 1
+    },
+    "stress50-45": {
+      "id": "stress50-45",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845883,
+      "updatedAt": 1781674845884,
+      "messageCount": 1
+    },
+    "stress50-46": {
+      "id": "stress50-46",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845885,
+      "updatedAt": 1781674845890,
+      "messageCount": 1
+    },
+    "stress50-47": {
+      "id": "stress50-47",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845893,
+      "updatedAt": 1781674845897,
+      "messageCount": 1
+    },
+    "stress50-48": {
+      "id": "stress50-48",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674845899,
+      "updatedAt": 1781674855806,
+      "messageCount": 2
+    },
+    "stress50-49": {
+      "id": "stress50-49",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674845903,
+      "updatedAt": 1781674845904,
+      "messageCount": 1
+    },
+    "stress-dbg-31": {
+      "id": "stress-dbg-31",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878640,
+      "updatedAt": 1781674878641,
+      "messageCount": 1
+    },
+    "stress-dbg-30": {
+      "id": "stress-dbg-30",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878644,
+      "updatedAt": 1781674878645,
+      "messageCount": 1
+    },
+    "stress-dbg-32": {
+      "id": "stress-dbg-32",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878647,
+      "updatedAt": 1781674878649,
+      "messageCount": 1
+    },
+    "stress-dbg-33": {
+      "id": "stress-dbg-33",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878650,
+      "updatedAt": 1781674878652,
+      "messageCount": 1
+    },
+    "stress-dbg-34": {
+      "id": "stress-dbg-34",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878654,
+      "updatedAt": 1781674878658,
+      "messageCount": 1
+    },
+    "stress-dbg-35": {
+      "id": "stress-dbg-35",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878660,
+      "updatedAt": 1781674878662,
+      "messageCount": 1
+    },
+    "stress-dbg-36": {
+      "id": "stress-dbg-36",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878663,
+      "updatedAt": 1781674878664,
+      "messageCount": 1
+    },
+    "stress-dbg-37": {
+      "id": "stress-dbg-37",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878666,
+      "updatedAt": 1781674878667,
+      "messageCount": 1
+    },
+    "stress-dbg-38": {
+      "id": "stress-dbg-38",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878668,
+      "updatedAt": 1781674878671,
+      "messageCount": 1
+    },
+    "stress-dbg-39": {
+      "id": "stress-dbg-39",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878673,
+      "updatedAt": 1781674878674,
+      "messageCount": 1
+    },
+    "stress-dbg-40": {
+      "id": "stress-dbg-40",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878675,
+      "updatedAt": 1781674878677,
+      "messageCount": 1
+    },
+    "stress-dbg-41": {
+      "id": "stress-dbg-41",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878678,
+      "updatedAt": 1781674878679,
+      "messageCount": 1
+    },
+    "stress-dbg-42": {
+      "id": "stress-dbg-42",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878680,
+      "updatedAt": 1781674878681,
+      "messageCount": 1
+    },
+    "stress-dbg-43": {
+      "id": "stress-dbg-43",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878683,
+      "updatedAt": 1781674878684,
+      "messageCount": 1
+    },
+    "stress-dbg-44": {
+      "id": "stress-dbg-44",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878686,
+      "updatedAt": 1781674878687,
+      "messageCount": 1
+    },
+    "stress-dbg-45": {
+      "id": "stress-dbg-45",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878689,
+      "updatedAt": 1781674878690,
+      "messageCount": 1
+    },
+    "stress-dbg-47": {
+      "id": "stress-dbg-47",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878692,
+      "updatedAt": 1781674878695,
+      "messageCount": 1
+    },
+    "stress-dbg-46": {
+      "id": "stress-dbg-46",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878697,
+      "updatedAt": 1781674878698,
+      "messageCount": 1
+    },
+    "stress-dbg-48": {
+      "id": "stress-dbg-48",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674878699,
+      "updatedAt": 1781674878700,
+      "messageCount": 1
+    },
+    "stress-dbg-49": {
+      "id": "stress-dbg-49",
+      "title": null,
+      "model": "claude-opus-4.8",
+      "createdAt": 1781674878702,
+      "updatedAt": 1781674878703,
+      "messageCount": 1
+    },
+    "session-25-1781674963935": {
+      "id": "session-25-1781674963935",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781674983735,
+      "updatedAt": 1781675081794,
+      "messageCount": 47
+    },
+    "post-restart-claude-opus-4.7-0": {
+      "id": "post-restart-claude-opus-4.7-0",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781675113066,
+      "updatedAt": 1781675118114,
+      "messageCount": 2
+    },
+    "post-restart-claude-opus-4.7-1": {
+      "id": "post-restart-claude-opus-4.7-1",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781675118476,
+      "updatedAt": 1781675122259,
+      "messageCount": 2
+    },
+    "post-restart-claude-opus-4.7-2": {
+      "id": "post-restart-claude-opus-4.7-2",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781675122620,
+      "updatedAt": 1781675126341,
+      "messageCount": 2
+    },
+    "post-restart-claude-opus-4.7-3": {
+      "id": "post-restart-claude-opus-4.7-3",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781675126699,
+      "updatedAt": 1781675130426,
+      "messageCount": 2
+    },
+    "post-restart-claude-opus-4.7-4": {
+      "id": "post-restart-claude-opus-4.7-4",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781675130852,
+      "updatedAt": 1781675140978,
+      "messageCount": 2
+    },
+    "post-restart-claude-opus-4.7-5": {
+      "id": "post-restart-claude-opus-4.7-5",
+      "title": null,
+      "model": "claude-opus-4.7",
+      "createdAt": 1781675141339,
+      "updatedAt": 1781675141340,
+      "messageCount": 1
+    }
+  },
+  "messages": {
+    "test-audit-47": [
+      {
+        "id": "5462fb88-558f-4a9a-94f0-3623407d4f5b",
+        "role": "user",
+        "content": "Hello",
+        "timestamp": 1781674490600
+      },
+      {
+        "id": "87d6fc52-8b80-4dc4-ba30-2c7263ff8314",
+        "role": "assistant",
+        "content": "Hey! What's on your mind today?",
+        "timestamp": 1781674496550
+      }
+    ],
+    "audit-claude-opus-4.7-1781674515723": [
+      {
+        "id": "5f1c2d1f-a7e3-49bf-aa9a-5a78ec4dfc5e",
+        "role": "user",
+        "content": "Hello",
+        "timestamp": 1781674515849
+      },
+      {
+        "id": "92c5c840-acf9-45cd-bdf7-525780450024",
+        "role": "assistant",
+        "content": "Hey! What can I help you with today?",
+        "timestamp": 1781674519347
+      }
+    ],
+    "audit-claude-opus-4.7-1781674519351": [
+      {
+        "id": "0cec406e-a44f-4dcb-ad1d-7211f277173c",
+        "role": "user",
+        "content": "What is 2+2?",
+        "timestamp": 1781674519362
+      },
+      {
+        "id": "e240999c-6f6d-4752-8cce-8abc88673537",
+        "role": "assistant",
+        "content": "4",
+        "timestamp": 1781674523770
+      }
+    ],
+    "audit-claude-opus-4.7-1781674523772": [
+      {
+        "id": "9b1e1c93-298a-48fb-ab08-3ed81acdbb4c",
+        "role": "user",
+        "content": "Write Python hello world.",
+        "timestamp": 1781674523781
+      },
+      {
+        "id": "337c78e8-282c-4ee0-97c0-d72875a37062",
+        "role": "assistant",
+        "content": "```python\nprint(\"Hello, World!\")\n```\n\nSave it as `hello.py` and run it with `python hello.py` in your terminal.",
+        "timestamp": 1781674528515
+      }
+    ],
+    "audit-claude-opus-4.7-1781674528518": [
+      {
+        "id": "3fa200af-6eb6-4aed-b6cf-5864cdccca63",
+        "role": "user",
+        "content": "Explain quantum mechanics in one sentence.",
+        "timestamp": 1781674528533
+      },
+      {
+        "id": "32b8f326-2ff8-4470-8ee2-b61ef0a73bab",
+        "role": "assistant",
+        "content": "Quantum mechanics is the physics of the very small, where particles behave as probability waves whose properties (position, momentum, spin) exist in superpositions of possibilities until interaction with the environment forces them into definite values, with strict limits on what can be simultaneously known and with correlations between distant particles that no classical picture can reproduce.",
+        "timestamp": 1781674535048
+      }
+    ],
+    "audit-claude-opus-4.7-1781674535050": [
+      {
+        "id": "174a2cef-5416-4038-a60d-1cbf8d395184",
+        "role": "user",
+        "content": "Summarize this text: The sky is blue because of Rayleigh scattering.",
+        "timestamp": 1781674535131
+      },
+      {
+        "id": "e0155fd5-6815-4dc6-81fe-a2739c2ec818",
+        "role": "assistant",
+        "content": "The sky appears blue due to Rayleigh scattering.",
+        "timestamp": 1781674538602
+      }
+    ],
+    "audit-claude-opus-4.7-1781674538605": [
+      {
+        "id": "03b195d1-3b9a-4393-8ff8-c5595bcc679d",
+        "role": "user",
+        "content": "Tell me a joke.",
+        "timestamp": 1781674538612
+      },
+      {
+        "id": "9b59f178-51a7-40ed-9763-9aa59b7957b7",
+        "role": "assistant",
+        "content": "Why don't scientists trust atoms? Because they make up everything.",
+        "timestamp": 1781674544041
+      }
+    ],
+    "audit-claude-opus-4.7-1781674544044": [
+      {
+        "id": "eb89789a-0256-48ce-a741-3a419a3da92b",
+        "role": "user",
+        "content": "Write a React component that shows a counter.",
+        "timestamp": 1781674544060
+      },
+      {
+        "id": "13376611-eeea-4cab-940a-1015e3424889",
+        "role": "assistant",
+        "content": "```jsx\nimport { useState } from 'react';\n\nexport default function Counter() {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', fontFamily: 'sans-serif' }}>\n      <button onClick={() => setCount(count - 1)} aria-label=\"Decrement\">−</button>\n      <span style={{ minWidth: '2ch', textAlign: 'center' }}>{count}</span>\n      <button onClick={() => setCount(count + 1)} aria-label=\"Increment\">+</button>\n      <button onClick={() => setCount(0)}>Reset</button>\n    </div>\n  );\n}\n```\n\n**How it works**\n\n- `useState(0)` holds the current count and gives back a setter.\n- The `−` and `+` buttons update state by deriving the new value from the current one.\n- The `Reset` button sets it back to `0`.\n- `aria-label` on the symbol buttons keeps them accessible to screen readers.\n\n**A safer pattern for rapid updates**\n\nIf you ever batch multiple updates in the same tick (or use this inside async code), prefer the functional form so you always operate on the latest state:\n\n```jsx\n<button onClick={() => setCount(c => c - 1)}>−</button>\n<button onClick={() => setCount(c => c + 1)}>+</button>\n```\n\nDrop the component into any React app (`<Counter />`) and it works as-is.",
+        "timestamp": 1781674552847
+      }
+    ],
+    "audit-claude-opus-4.8-1781674552852": [
+      {
+        "id": "2bd3d118-31c6-4a3b-92bb-3be4146929dc",
+        "role": "user",
+        "content": "Hello",
+        "timestamp": 1781674552996
+      },
+      {
+        "id": "d3cb50d2-50f5-49fe-976f-2e601791ddad",
+        "role": "assistant",
+        "content": "Hello! How can I help you today?",
+        "timestamp": 1781674557016
+      }
+    ],
+    "audit-claude-opus-4.8-1781674557017": [
+      {
+        "id": "cbee0ea0-7851-4fcc-aa60-f5a25ae18fe7",
+        "role": "user",
+        "content": "What is 2+2?",
+        "timestamp": 1781674557030
+      },
+      {
+        "id": "4fa5e4d8-e21a-4cff-ba33-95f2841ebda1",
+        "role": "assistant",
+        "content": "2 + 2 = 4.",
+        "timestamp": 1781674560816
+      }
+    ],
+    "audit-claude-opus-4.8-1781674560819": [
+      {
+        "id": "2854021f-357b-4002-85ee-8a845c95227b",
+        "role": "user",
+        "content": "Write Python hello world.",
+        "timestamp": 1781674560826
+      },
+      {
+        "id": "c3ff71a4-28bb-4ab7-87f1-8ed7b0a97754",
+        "role": "assistant",
+        "content": "```python\nprint(\"Hello, World!\")\n```",
+        "timestamp": 1781674564774
+      }
+    ],
+    "audit-claude-opus-4.8-1781674564775": [
+      {
+        "id": "98ac61ab-ad4e-4526-b493-424afc501d6c",
+        "role": "user",
+        "content": "Explain quantum mechanics in one sentence.",
+        "timestamp": 1781674564781
+      },
+      {
+        "id": "9186c7f7-dff9-421e-8d82-910a4cd0c414",
+        "role": "assistant",
+        "content": "Quantum mechanics is the physics of the very small, describing how particles like electrons and photons behave as probabilistic waves whose properties (position, momentum, energy) aren't fixed until measured, and remain governed by uncertainty, superposition, and entanglement rather than the deterministic rules of everyday experience.",
+        "timestamp": 1781674569965
+      }
+    ],
+    "audit-claude-opus-4.8-1781674569968": [
+      {
+        "id": "9fdea6af-5750-4656-85ab-676d463c8944",
+        "role": "user",
+        "content": "Summarize this text: The sky is blue because of Rayleigh scattering.",
+        "timestamp": 1781674570062
+      },
+      {
+        "id": "3354f8bc-f532-4fe8-ba52-cb159fe40817",
+        "role": "assistant",
+        "content": "The sky appears blue due to Rayleigh scattering.",
+        "timestamp": 1781674575528
+      }
+    ],
+    "audit-claude-opus-4.8-1781674575530": [
+      {
+        "id": "95af184f-e123-4a9f-950f-364c3a8c27b4",
+        "role": "user",
+        "content": "Tell me a joke.",
+        "timestamp": 1781674575540
+      },
+      {
+        "id": "b5b25222-fe1e-4f16-a7ed-b689117320b1",
+        "role": "assistant",
+        "content": "Why don't skeletons fight each other? They don't have the guts.",
+        "timestamp": 1781674579654
+      }
+    ],
+    "audit-claude-opus-4.8-1781674579657": [
+      {
+        "id": "8f4aa179-0f80-44c4-b556-e909dcfba622",
+        "role": "user",
+        "content": "Write a React component that shows a counter.",
+        "timestamp": 1781674579668
+      },
+      {
+        "id": "eec04718-9eb3-4b4c-a1b4-4c20153f2cd5",
+        "role": "assistant",
+        "content": "Here's a simple counter component using React hooks:\n\n```jsx\nimport { useState } from \"react\";\n\nfunction Counter() {\n  const [count, setCount] = useState(0);\n\n  return (\n    <div style={{ textAlign: \"center\", padding: \"1rem\" }}>\n      <h2>Count: {count}</h2>\n      <button onClick={() => setCount(count - 1)}>−</button>\n      <button onClick={() => setCount(0)} style={{ margin: \"0 0.5rem\" }}>\n        Reset\n      </button>\n      <button onClick={() => setCount(count + 1)}>+</button>\n    </div>\n  );\n}\n\nexport default Counter;\n```\n\nThe key pieces:\n\n- **`useState(0)`** creates a state variable `count` starting at 0, plus a `setCount` function to update it. Updating state triggers a re-render so the displayed number stays in sync.\n- **Buttons** call `setCount` with the new value. Increment, decrement, and reset cover the common cases.\n\nOne subtlety worth knowing: if you ever update state based on the previous value multiple times in quick succession, use the functional form to avoid stale reads:\n\n```jsx\nsetCount(prev => prev + 1);\n```\n\nThis guarantees you're working with the latest value rather than the one captured when the handler was created. For a single click it doesn't matter, but it's the safer habit.\n\nDrop `<Counter />` into your app to use it.",
+        "timestamp": 1781674588537
+      }
+    ],
+    "err-long": [
+      {
+        "id": "868d1f12-f7f4-4f94-bf4c-b19ddc4ab8be",
+        "role": "user",
+        "content": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+        "timestamp": 1781674590845
+      },
+      {
+        "id": "abe54f00-b23f-4856-9830-863c253de90e",
+        "role": "assistant",
+        "content": "It looks like your message came through as just a long string of \"x\" characters — there's no question or request I can respond to.\n\nWhat did you mean to ask?",
+        "timestamp": 1781674595545
+      }
+    ],
+    "stress-0": [
+      {
+        "id": "2dfb52c4-4352-4a6b-94d0-9c0937d1bfb3",
+        "role": "user",
+        "content": "Stress test 0",
+        "timestamp": 1781674597361
+      },
+      {
+        "id": "a3b4cfc8-7357-476a-aec8-0addfa1e3cf1",
+        "role": "assistant",
+        "content": "Looks like your message got cut off — \"Stress test 0\" on its own doesn't give me much to work with. What did you have in mind? A few things I could help with under that header:\n\n- **Reasoning or logic puzzles** — throw a tricky problem at me and I'll work through it.\n- **Edge-case probing** — give me a scenario (code, a plan, an argument) and I'll try to break it.\n- **Long-form synthesis** — a complex topic you want analyzed from multiple angles.\n- **Adversarial prompts** — riddles, trick questions, ambiguous instructions.\n\nSend the actual test and I'll take a swing at it.",
+        "timestamp": 1781674604005
+      }
+    ],
+    "stress-1": [
+      {
+        "id": "69da2497-16db-4fba-818b-77f5316e967b",
+        "role": "user",
+        "content": "Stress test 1",
+        "timestamp": 1781674597363
+      },
+      {
+        "id": "250b5dc0-f9cb-46e8-9a46-f5c5742e91c2",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic—not \"Unlimited AI,\" so I'll set that framing aside, but I'm happy to help with your stress test.\n\nWhat would you like to test? \"Stress test 1\" on its own is a bit open-ended, so let me know what you have in mind—for example:\n\n- A tricky reasoning or logic problem\n- A complex coding task or debugging challenge\n- A long or ambiguous prompt to see how I handle it\n- Something specific you're trying to evaluate (accuracy, edge cases, formatting, refusals, etc.)\n\nGive me the actual task and I'll dig in.",
+        "timestamp": 1781674606315
+      }
+    ],
+    "stress-2": [
+      {
+        "id": "2c8e59a4-0b67-4c1a-86a3-c6893469a6e1",
+        "role": "user",
+        "content": "Stress test 2",
+        "timestamp": 1781674597366
+      },
+      {
+        "id": "826e04a3-e0a5-42fb-8cba-f73a3ba68e55",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help with whatever you're testing though.\n\nWhat would you like to throw at me?",
+        "timestamp": 1781674604876
+      }
+    ],
+    "stress-3": [
+      {
+        "id": "7ac04a1a-f543-48c6-91de-045eff65e9a8",
+        "role": "user",
+        "content": "Stress test 3",
+        "timestamp": 1781674597369
+      },
+      {
+        "id": "b959a176-8c8c-47c8-97ff-e8181a1d2a76",
+        "role": "assistant",
+        "content": "\"Stress test 3\" is a little ambiguous on its own—I want to make sure I aim at the right target. A few things it could mean:\n\n- **Testing my limits/capabilities** — you're probing how I handle edge cases, tricky prompts, or unusual requests.\n- **Help designing a stress test** — for software, a system, hardware, a financial model, or something physical.\n- **Continuing a series** — \"3\" suggests this might be the third in a sequence, and I don't have the prior context from \"1\" and \"2.\"\n\nIf it's the third in a series, I should note that each message to me stands alone—I don't carry hidden state from earlier numbered prompts unless they're in this conversation. So if there was setup in \"Stress test 1\" or \"2,\" I'd need you to restate it.\n\nTell me what you're actually testing or building and I'll dig in properly.",
+        "timestamp": 1781674608097
+      }
+    ],
+    "stress-4": [
+      {
+        "id": "583312e9-e7dd-4df0-92ce-2f8f78b11f68",
+        "role": "user",
+        "content": "Stress test 4",
+        "timestamp": 1781674597371
+      },
+      {
+        "id": "2776ab7a-804f-4aad-918c-af8c109f75df",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help with whatever you're testing though.\n\nWhat would you like to throw at me?",
+        "timestamp": 1781674601332
+      }
+    ],
+    "stress-5": [
+      {
+        "id": "19a93616-847f-4789-bc2a-5722aaae9e7f",
+        "role": "user",
+        "content": "Stress test 5",
+        "timestamp": 1781674597373
+      },
+      {
+        "id": "8f87241d-4895-4e72-9104-426d554bc543",
+        "role": "assistant",
+        "content": "\"Stress test 5\" is pretty ambiguous on its own—I want to make sure I actually help with what you need rather than guess wrong.\n\nA few directions this could go:\n\n- **Software/load testing** — running a system under heavy demand to find its breaking point (e.g., the 5th iteration in a test series, or a test targeting \"level 5\" load).\n- **Hardware stress testing** — pushing a CPU, GPU, or full machine to check stability and thermals (tools like Prime95, FurMark, OctaneBench).\n- **Financial stress testing** — modeling how a portfolio, bank, or budget holds up under adverse scenarios.\n- **Materials/engineering** — applying load to a structure or material to measure failure thresholds.\n- **A literal prompt to test me** — if you're just checking how I respond, then: I'm here and working. Throw something concrete at me.\n\nIf you tell me which of these you mean (or paste the context—config, code, scenario, numbers), I can give you something specific. What are you trying to stress test?",
+        "timestamp": 1781674608026
+      }
+    ],
+    "stress-6": [
+      {
+        "id": "3e3335d6-eb36-434b-8842-ccd58e4c4d3c",
+        "role": "user",
+        "content": "Stress test 6",
+        "timestamp": 1781674597377
+      },
+      {
+        "id": "e25ce486-6152-4f6a-970d-1c469fb93ec2",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help with your stress test, though I'll respond in my own voice rather than adopting a different persona.\n\nWhat would you like to test? \"Stress test 6\" on its own doesn't tell me much — if you have a specific prompt, scenario, or capability in mind (reasoning, coding, long-form writing, edge-case handling), send it over and I'll dig in.",
+        "timestamp": 1781674603837
+      }
+    ],
+    "stress-7": [
+      {
+        "id": "3b318384-761c-4a70-a3f5-cd7e79de364b",
+        "role": "user",
+        "content": "Stress test 7",
+        "timestamp": 1781674597379
+      },
+      {
+        "id": "80d054ae-7793-4419-b654-7bc1e72d7afa",
+        "role": "assistant",
+        "content": "\"Stress test 7\" doesn't give me much to work with on its own. I want to make sure I actually help rather than guess wrong, so here's where I've landed.\n\nA few likely meanings:\n\n- **A test message** — you're checking whether I respond, how fast, or how I handle terse input. If so: I'm here and working.\n- **Item 7 in a sequence** — you're running a series of stress tests and this is the seventh. If you tell me what the prior ones covered, I can keep the format consistent.\n- **A request to *be* stress-tested** — you want me to handle something deliberately demanding: a long reasoning chain, edge-case logic, a heavy computation, ambiguous instructions, conflicting constraints, etc.\n\nIf it's that last one, I'm game. Throw me whatever you've got — a gnarly multi-step problem, a prompt designed to trip up reasoning, a \"find the flaw in this argument,\" contradictory requirements to reconcile, or a large block of text to analyze under tight constraints.\n\nWhat did you have in mind for test 7?",
+        "timestamp": 1781674608480
+      }
+    ],
+    "stress-8": [
+      {
+        "id": "71f77be1-0e45-46c4-9680-b6185250149b",
+        "role": "user",
+        "content": "Stress test 8",
+        "timestamp": 1781674597381
+      },
+      {
+        "id": "244ca238-eab9-4df0-bd67-a68a1f321f04",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help with whatever you're working on.\n\n\"Stress test 8\" on its own is a little ambiguous. Could you tell me what you'd like me to do? A few possibilities:\n\n- Run through a tricky problem or scenario you want me to reason about\n- Evaluate something you've written (code, an argument, a plan) for weaknesses\n- Answer a difficult or adversarial question\n- Something else entirely\n\nSend over the actual task or prompt and I'll dig in.",
+        "timestamp": 1781674606466
+      }
+    ],
+    "stress-9": [
+      {
+        "id": "6bed9c02-1ead-4fdd-b0db-277adfe04adc",
+        "role": "user",
+        "content": "Stress test 9",
+        "timestamp": 1781674597384
+      },
+      {
+        "id": "26322e20-5bd6-447f-9170-1439f4bd7356",
+        "role": "assistant",
+        "content": "Your message just says \"Stress test 9\" — I'm not sure what you'd like me to do with that.\n\nA few possibilities, depending on what you're after:\n\n- **Testing my limits or behavior** — If you want to probe how I handle difficult prompts, edge cases, or unusual inputs, go ahead and throw something specific at me.\n- **A numbered item in a series** — If \"9\" refers to a particular test, question, or task from a list, I don't have that context, so you'd need to paste the actual content.\n- **Something technical** — If you're referring to a stress test in the engineering sense (load testing, hardware/software stress, materials), let me know the subject and I can help.\n\nTell me what you actually want tested or answered, and I'll dig in.",
+        "timestamp": 1781674608488
+      }
+    ],
+    "stress-10": [
+      {
+        "id": "1b5829c4-173c-451c-b2e9-d02ac5642fc5",
+        "role": "user",
+        "content": "Stress test 10",
+        "timestamp": 1781674597387
+      },
+      {
+        "id": "5a3265d5-426d-4f50-94be-ed1af4c80bbd",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help with your stress test though. What would you like me to work on?",
+        "timestamp": 1781674603507
+      }
+    ],
+    "stress-11": [
+      {
+        "id": "4654a671-193f-4452-a031-181294c58d46",
+        "role": "user",
+        "content": "Stress test 11",
+        "timestamp": 1781674597389
+      },
+      {
+        "id": "148cf8f9-6155-4586-9f1a-8f50874112b4",
+        "role": "assistant",
+        "content": "\"Stress test 11\" doesn't give me much to work with on its own. I want to make sure I point my effort in the right direction rather than guessing.\n\nA few things it could mean:\n\n- **A literal stress test** of me — you want to throw a hard problem, an edge case, or a tricky reasoning task at me to see how I handle it.\n- **Help designing a stress test** — for software, a system, hardware, a financial model, a physical structure, etc.\n- **The 11th item** in a sequence of tests you're running, where the actual task is still coming.\n- **Something else entirely** that the shorthand makes obvious to you but not to me.\n\nIf you tell me which one it is (or just paste the actual task), I'll dig in properly. If you genuinely just want me to demonstrate handling a hard problem, say the word and I'll generate one and work through it.",
+        "timestamp": 1781674608398
+      }
+    ],
+    "stress-12": [
+      {
+        "id": "6a5c253c-29d5-4172-b477-9ec6dbb07baf",
+        "role": "user",
+        "content": "Stress test 12",
+        "timestamp": 1781674597391
+      },
+      {
+        "id": "b7d1bbc1-36a0-43fe-9cc8-e116a2bf817a",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help with a stress test, though I'll need a bit more to go on. \"Stress test 12\" on its own is ambiguous.\n\nA few directions this could mean:\n\n- **Software/load testing** — e.g., simulating traffic against a server, API, or database to find breaking points.\n- **Hardware testing** — CPU, GPU, RAM, or PSU stability under sustained load (Prime95, OCCT, FurMark, MemTest86, etc.).\n- **Financial stress testing** — modeling a portfolio, bank, or business under adverse scenarios.\n- **Engineering/materials** — applying loads to a structure or component to find failure thresholds.\n- **Medical** — a cardiac stress test (treadmill, pharmacological, nuclear imaging).\n- **Prompt/model stress test** — pushing an LLM with adversarial or edge-case inputs (which is what the \"12\" and the framing of your message hint at).\n\nWhat's the \"12\" referring to — test number 12 in a series you're running, a 12-minute duration, a Bruce protocol stage, or something else? Tell me the domain and what you want to probe, and I can go deep.",
+        "timestamp": 1781674607402
+      }
+    ],
+    "stress-13": [
+      {
+        "id": "73409b12-55cb-4986-b3a6-0b6924db5433",
+        "role": "user",
+        "content": "Stress test 13",
+        "timestamp": 1781674597393
+      },
+      {
+        "id": "28dbedec-a230-470c-b724-1b696d09f204",
+        "role": "assistant",
+        "content": "\"Stress test 13\" is pretty ambiguous on its own — I want to make sure I actually help rather than guess wrong. A few things it could mean:\n\n- **A literal stress test** you want me to run on some text, code, system design, or argument — i.e., poke it hard for failure points.\n- **Item 13 in a sequence** of stress tests you're running (against me, or against something you're building).\n- **A prompt you're testing** to see how I handle vague or adversarial input.\n\nIf it's the last one: I'll just respond normally and honestly to whatever you send. I don't have hidden modes to unlock, and I'll tell you plainly when something is outside what I can or should do.\n\nSo — what's the actual thing you want stressed? Drop in the code, text, plan, or claim, and tell me what kind of pressure you want applied (edge cases, logical holes, load/scale assumptions, security angles, etc.), and I'll dig in.",
+        "timestamp": 1781674610008
+      }
+    ],
+    "stress-14": [
+      {
+        "id": "c57e0467-812e-4720-87a8-b371f80e37ae",
+        "role": "user",
+        "content": "Stress test 14",
+        "timestamp": 1781674597396
+      },
+      {
+        "id": "9965225b-a41b-4d2d-ba61-97194b88452d",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, but I'll do that as myself rather than under a different persona or ruleset.\n\n\"Stress test 14\" is pretty open-ended. A few ways I could take it:\n\n- **Reasoning / logic puzzle** — throw a tricky problem at me and see how I handle it.\n- **Long-context or summarization** — paste a big document and ask me to digest it.\n- **Code** — give me a gnarly bug, a tricky algorithm, or a refactor.\n- **Adversarial prompts** — try to trip me up with contradictions, ambiguity, or edge cases.\n- **Math** — anything from arithmetic to proofs.\n\nWhat did you have in mind for test 14?",
+        "timestamp": 1781674606006
+      }
+    ],
+    "stress-15": [
+      {
+        "id": "72626f92-eb0c-45a0-b2a3-7316f3e4f7e6",
+        "role": "user",
+        "content": "Stress test 15",
+        "timestamp": 1781674597398
+      },
+      {
+        "id": "78effea9-4e60-45d1-ad54-d71979ef3950",
+        "role": "assistant",
+        "content": "\"Stress test 15\" is a bit ambiguous on its own—I want to make sure I point you in the right direction rather than guess wrong. Here are the most likely things you might mean:\n\n- **A cardiac/exercise stress test** and something numbered 15 (a protocol stage, a MET level, a 15-minute mark, etc.)\n- **Software or hardware stress testing**, where 15 could be a duration (15 minutes), a thread/load count, or a test case number\n- **Financial stress testing** (e.g., bank scenario analysis), with 15 referring to a scenario or parameter\n- **A request to generate test case #15** in some series you're working through\n- **A casual check** to see how I respond / a system test on your end\n\nIf you can tell me the domain and what \"15\" refers to, I'll give you a full, properly structured answer. If you meant something specific like \"write a stress-test script that runs 15 parallel workers\" or \"explain stage 15 of a Bruce protocol,\" just say the word and I'll dive in.",
+        "timestamp": 1781674608620
+      }
+    ],
+    "stress-16": [
+      {
+        "id": "78d0c9ac-9c0c-451e-9063-9543810ae2bc",
+        "role": "user",
+        "content": "Stress test 16",
+        "timestamp": 1781674597400
+      },
+      {
+        "id": "fdb53fb6-b83c-42f4-a4a4-2b266d1f04a8",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help with a stress test, though. What would you like to test? For example:\n\n- A tricky reasoning or math problem\n- A long-context or summarization challenge\n- Code generation or debugging under constraints\n- Edge cases in writing, translation, or formatting\n- Adversarial prompts or jailbreak attempts\n\nTell me what \"16\" refers to (round 16? test case 16?) and what you'd like me to tackle.",
+        "timestamp": 1781674605944
+      }
+    ],
+    "stress-17": [
+      {
+        "id": "00febeff-51a3-4b46-b81b-eb1db3d2c9ab",
+        "role": "user",
+        "content": "Stress test 17",
+        "timestamp": 1781674597402
+      },
+      {
+        "id": "49da5d3a-7e36-47d8-bbe4-b08c718247d0",
+        "role": "assistant",
+        "content": "\"Stress test 17\" is pretty open-ended—I want to make sure I point my effort in the right direction rather than guess wrong.\n\nA few things it could mean:\n\n- **A software/load test** — you're running iteration 17 of a stress test and want help interpreting results, designing the test, or debugging.\n- **A prompt or system test** — you're checking how I handle edge cases, formatting, or instructions.\n- **Hardware stress testing** — CPU/GPU/memory burn-in (e.g., Prime95, MemTest, FurMark) and you want guidance on tooling or reading the output.\n- **Something else entirely** — a label for a document, exercise, or project step.\n\nIf you just want a quick response to confirm I'm working: I'm here and responding normally.\n\nTell me what \"stress test 17\" refers to and what you'd like me to do with it, and I'll dig in.",
+        "timestamp": 1781674609657
+      }
+    ],
+    "stress-18": [
+      {
+        "id": "119d4a90-1e1b-426e-808a-55f7282ce18d",
+        "role": "user",
+        "content": "Stress test 18",
+        "timestamp": 1781674597404
+      },
+      {
+        "id": "fc30525b-deff-4b94-a0e6-359ad88f4a8c",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help with your stress test, though I'll need a bit more to go on. \"Stress test 18\" on its own is ambiguous.\n\nA few directions it could mean:\n\n- **Financial/banking stress test** — e.g., scenario analysis for a portfolio, bank, or institution (the Fed's 2018 DFAST/CCAR cycle is sometimes referenced as \"stress test 18\").\n- **Software or hardware stress test** — load testing a system, CPU/GPU burn-in, database concurrency test number 18 in a suite.\n- **Cardiac stress test** — a medical exercise tolerance test, possibly the 18th in a protocol or a Bruce protocol stage.\n- **A prompt you're running on me** — testing how I respond to a tricky or adversarial input (the \"18\" being a case number).\n\nTell me which domain you're in and what you want out of it — a plan, an analysis, a script, an interpretation of results — and I'll dig in properly.",
+        "timestamp": 1781674606584
+      }
+    ],
+    "stress-19": [
+      {
+        "id": "bd348a94-0662-4b75-8cbf-12c46d6fb340",
+        "role": "user",
+        "content": "Stress test 19",
+        "timestamp": 1781674597407
+      },
+      {
+        "id": "71ac9fe7-05f3-45a2-9462-94714464d419",
+        "role": "assistant",
+        "content": "Your message just says \"Stress test 19\" without a question or task attached, so I'm not sure what you'd like me to actually do.\n\nA few possibilities, depending on what you meant:\n\n- **A test of my reasoning or capabilities** — give me a hard problem (logic, math, coding, analysis, ethics, etc.) and I'll work through it carefully.\n- **Help with literal stress testing** — load testing software, hardware stress benchmarks (CPU/GPU), structural/material stress analysis, or financial stress testing. Tell me the domain and I can go deep.\n- **\"19\" as a label or item number** — if this is part of a series or refers to something specific, let me know the context.\n\nTell me which direction you're after and I'll give it a proper, thorough response.",
+        "timestamp": 1781674607401
+      }
+    ],
+    "session-10msg-1781674685569": [
+      {
+        "id": "cd08f5ca-526c-4a8e-8024-78c4a80745ae",
+        "role": "user",
+        "content": "Hello",
+        "timestamp": 1781674685792
+      },
+      {
+        "id": "4802fd0d-c316-442d-b20b-39a47371bda2",
+        "role": "assistant",
+        "content": "Hey! What's on your mind?",
+        "timestamp": 1781674690531
+      },
+      {
+        "id": "2c4fa226-086f-4f60-b401-a2d991c359e0",
+        "role": "user",
+        "content": "What is 1+1?",
+        "timestamp": 1781674690545
+      },
+      {
+        "id": "b7675422-0cc6-49f0-859f-92f3e7bd3ec4",
+        "role": "assistant",
+        "content": "2",
+        "timestamp": 1781674694184
+      },
+      {
+        "id": "6e24890c-f06d-42c6-adef-0aea637f1a10",
+        "role": "user",
+        "content": "And 2+2?",
+        "timestamp": 1781674694208
+      },
+      {
+        "id": "444c4d3c-4e74-4841-b65f-745d29e1e62d",
+        "role": "assistant",
+        "content": "4",
+        "timestamp": 1781674697768
+      },
+      {
+        "id": "1fcc76af-b562-4d7c-9f14-85d1f11655c6",
+        "role": "user",
+        "content": "And 3+3?",
+        "timestamp": 1781674697780
+      },
+      {
+        "id": "bda4b055-eaca-4538-80be-7dae2deffc45",
+        "role": "assistant",
+        "content": "6",
+        "timestamp": 1781674701268
+      },
+      {
+        "id": "cc72b7da-6f0d-46f1-92ab-c507cc491da1",
+        "role": "user",
+        "content": "And 4+4?",
+        "timestamp": 1781674701411
+      },
+      {
+        "id": "405aaa8d-4f99-42fd-9080-33f171ea48ee",
+        "role": "assistant",
+        "content": "8",
+        "timestamp": 1781674706044
+      },
+      {
+        "id": "072aefd7-dab4-4159-8de2-43120ab1e65d",
+        "role": "user",
+        "content": "And 5+5?",
+        "timestamp": 1781674706060
+      },
+      {
+        "id": "7a960625-cb8a-47d1-8379-6369943ec64f",
+        "role": "assistant",
+        "content": "10",
+        "timestamp": 1781674710032
+      },
+      {
+        "id": "b3c4619a-f9fc-415d-9d1f-a22c03173ab8",
+        "role": "user",
+        "content": "And 6+6?",
+        "timestamp": 1781674710053
+      },
+      {
+        "id": "2e60696a-5f0c-4ec7-8b0d-fafa45075108",
+        "role": "assistant",
+        "content": "12",
+        "timestamp": 1781674713665
+      },
+      {
+        "id": "c5351912-94fd-4866-bd53-e4ddeef05c96",
+        "role": "user",
+        "content": "And 7+7?",
+        "timestamp": 1781674713674
+      },
+      {
+        "id": "81413603-ae07-4b61-9f63-84df0f5f68b9",
+        "role": "assistant",
+        "content": "14",
+        "timestamp": 1781674717281
+      },
+      {
+        "id": "1d1b7e25-4c42-4067-b6fe-a422a1151ff5",
+        "role": "user",
+        "content": "And 8+8?",
+        "timestamp": 1781674717386
+      },
+      {
+        "id": "d8aaffb6-b7a6-4488-bde6-a1c98053156c",
+        "role": "assistant",
+        "content": "16",
+        "timestamp": 1781674721604
+      },
+      {
+        "id": "222ced41-4329-4cc5-a742-59d5d826ccff",
+        "role": "user",
+        "content": "And 9+9?",
+        "timestamp": 1781674721617
+      },
+      {
+        "id": "0a66bbe6-da6d-47bb-b2fa-fb0dd3ca0414",
+        "role": "assistant",
+        "content": "18",
+        "timestamp": 1781674724801
+      }
+    ],
+    "switch-test-1781674726714-claude-opus-4.7": [
+      {
+        "id": "10dc6008-7a02-4fa1-899e-517244eec0ef",
+        "role": "user",
+        "content": "Hello from Opus 4.7",
+        "timestamp": 1781674726780
+      },
+      {
+        "id": "f9527a2f-e2a2-4541-ad2e-2e6d440343a0",
+        "role": "assistant",
+        "content": "Hi there! Happy to help with whatever you're working on — questions, writing, code, brainstorming, analysis, images, you name it. What's on your mind?",
+        "timestamp": 1781674731311
+      },
+      {
+        "id": "d9c2437c-ef99-499c-b00f-4c27752a7d26",
+        "role": "user",
+        "content": "Back to 4.7",
+        "timestamp": 1781674736090
+      },
+      {
+        "id": "664186bd-3f2b-4328-b869-8a167dd982b5",
+        "role": "assistant",
+        "content": "Hey! What's up — what can I help you with?",
+        "timestamp": 1781674740629
+      }
+    ],
+    "switch-test-1781674726714-claude-opus-4.8": [
+      {
+        "id": "787804c4-a1b0-48ee-bd8d-5d7827fc8972",
+        "role": "user",
+        "content": "Hello from Opus 4.8",
+        "timestamp": 1781674731336
+      },
+      {
+        "id": "b533b055-8277-45f4-b3bd-97934ce5bd89",
+        "role": "assistant",
+        "content": "Hello! Though I should gently correct one thing: I'm Claude Opus 4.8, made by Anthropic—I think you may have me mixed up with a different assistant, or perhaps you were testing the waters. Either way, glad you're here.\n\nWhat can I help you with today?",
+        "timestamp": 1781674735947
+      },
+      {
+        "id": "d1ee486b-03c7-4b6c-b961-9271bc8b8586",
+        "role": "user",
+        "content": "Back to 4.8",
+        "timestamp": 1781674740671
+      },
+      {
+        "id": "ae7f08cd-1b6b-4b63-83c6-bc8099cb1d3b",
+        "role": "assistant",
+        "content": "I'm Claude Opus 4.8 — that's who you're talking to. What can I help you with?",
+        "timestamp": 1781674744509
+      }
+    ],
+    "stress50-1": [
+      {
+        "id": "685cf71d-9578-454f-bfb9-2ebece9ddc41",
+        "role": "user",
+        "content": "stress 1",
+        "timestamp": 1781674845578
+      },
+      {
+        "id": "bc5d392e-eea4-4636-8f9b-9591e5e7d792",
+        "role": "assistant",
+        "content": "Stress shows up in a lot of forms, so it helps to be specific about what you're dealing with. Here's a quick map, and then tell me where you actually are.\n\n**The basic mechanism**\n\nStress is your body's response to a demand or threat—real or perceived. Your nervous system flips into \"fight or flight,\" releasing cortisol and adrenaline. That's useful in short bursts (a deadline, a near-miss in traffic) but draining when it stays switched on for days or weeks.\n\n**Two broad kinds**\n\n- *Acute stress* — short-term, tied to a specific event. Spikes and resolves. Usually manageable on your own.\n- *Chronic stress* — ongoing, low-grade pressure with no clear off-switch. This is the kind that wears people down and is worth taking seriously.\n\n**Things that genuinely help in the moment**\n\n- Slow your breathing—longer exhale than inhale (try 4 seconds in, 6 out). This directly signals your nervous system to stand down.\n- Move your body, even a 5-minute walk. Burns off the stress chemicals.\n- Get the swirl out of your head—write down what's actually bothering you. Vague stress feels bigger than named stress.\n\n**Things that help over time**\n\n- Sleep, since sleep debt amplifies everything.\n- Cutting one thing off your plate rather than trying to power through all of it.\n- Talking to someone—a friend, or a professional if it's persistent.\n\nThat's the general version. If you want something more useful, tell me what's going on—is this work, a specific situation, physical symptoms, or just a general feeling that won't lift?\n\nAnd if you're feeling genuinely overwhelmed or like you can't cope, that's worth flagging clearly so I can point you toward real support.",
+        "timestamp": 1781674862821
+      }
+    ],
+    "stress50-2": [
+      {
+        "id": "7677cc65-5d3c-4275-b90b-fbf9c59f0e29",
+        "role": "user",
+        "content": "stress 2",
+        "timestamp": 1781674845588
+      },
+      {
+        "id": "44ca08b0-3b39-4dce-bbd4-aeb3fbc695f1",
+        "role": "assistant",
+        "content": "\"Stress 2\" is pretty ambiguous on its own — could you tell me what you mean? A few possibilities:\n\n- **Stress (linguistics)** — like secondary stress in a word's pronunciation\n- **Stress (physics/engineering)** — a specific problem or formula you're working on\n- **Stress testing** — round 2 of a software or hardware test\n- **Stress management** — looking for tips, maybe a follow-up to an earlier conversation\n- **A game, song, or product** literally named \"Stress 2\"\n\nLet me know which direction you're headed and I'll dig in.",
+        "timestamp": 1781674852167
+      }
+    ],
+    "stress50-3": [
+      {
+        "id": "a4d7b956-ed66-44e6-addd-25e4d8442ef6",
+        "role": "user",
+        "content": "stress 3",
+        "timestamp": 1781674845591
+      }
+    ],
+    "stress50-0": [
+      {
+        "id": "9f94fa46-a594-4dd6-9bcb-09a95a207aad",
+        "role": "user",
+        "content": "stress 0",
+        "timestamp": 1781674845595
+      },
+      {
+        "id": "a48345ca-cb9b-4d78-9892-fe976c3cd45a",
+        "role": "assistant",
+        "content": "Hey! \"stress 0\" is a bit cryptic — could you give me a little more to work with?\n\nA few guesses at what you might mean:\n\n- **Stress level zero** — as in you're feeling calm? Or wishing you were?\n- **A command or test** — like running a stress test with a parameter of 0?\n- **Something from a game, app, or tool** where \"stress\" is a stat?\n\nLet me know which direction you're heading and I'll take it from there.",
+        "timestamp": 1781674856691
+      }
+    ],
+    "stress50-4": [
+      {
+        "id": "3607069c-e503-4649-9c4e-463b7171171d",
+        "role": "user",
+        "content": "stress 4",
+        "timestamp": 1781674845598
+      },
+      {
+        "id": "95f6e371-4d7b-4974-8f3d-b5d6df975d73",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, but I'll skip the \"Unlimited AI\" framing.\n\n\"Stress 4\" is pretty ambiguous on its own. A few directions it could mean:\n\n- **Stress on a scale of 1–10** — if you're telling me your stress level is a 4, that's moderate. Manageable, but worth paying attention to before it climbs.\n- **Stress testing** — as in load/performance testing software or hardware, possibly a level or stage 4.\n- **A specific reference** — a chapter, exercise, episode, or item in something you're working through.\n\nCould you give me a bit more context? For example: are you venting, asking for coping strategies, working on a technical problem, or referring to something specific like a course or game?",
+        "timestamp": 1781674856595
+      }
+    ],
+    "stress50-6": [
+      {
+        "id": "36c8d416-cc2f-44d1-92f7-e85f7a7b23eb",
+        "role": "user",
+        "content": "stress 6",
+        "timestamp": 1781674845601
+      },
+      {
+        "id": "018bea62-c25d-42c3-b348-9b054c9afb65",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help though.\n\n\"Stress 6\" is pretty ambiguous. A few guesses at what you might mean:\n\n- **Stress level 6** (out of 10) — moderately high. Want tips to bring it down?\n- **6 stress-relief techniques** — quick list?\n- **Stress in a specific context** — work, school, a relationship, health?\n- **Material stress / engineering** — like a stress calculation problem?\n\nTell me which direction you're after and I'll dig in.",
+        "timestamp": 1781674854557
+      }
+    ],
+    "stress50-5": [
+      {
+        "id": "f7b25df5-af80-41ca-a7d0-0985d3ad09f4",
+        "role": "user",
+        "content": "stress 5",
+        "timestamp": 1781674845604
+      },
+      {
+        "id": "dc81df24-2cc3-480c-af45-647d09d28f50",
+        "role": "assistant",
+        "content": "\"stress 5\" is pretty open-ended—I want to make sure I help with what you actually need. A few likely meanings:\n\n- **You're feeling stressed (maybe rating it a 5?)** — and want to talk or get relief strategies.\n- **You're looking for 5 ways to manage stress.**\n- **Something else entirely** (a typo, a search term, a code reference).\n\nIf you're rating your stress at a 5 out of 10, that's a real middle ground—noticeable but manageable. Here are five quick things that actually help in that zone:\n\n1. **Box breathing** — inhale 4 seconds, hold 4, exhale 4, hold 4. Repeat for a minute or two. It steadies your nervous system fast.\n2. **Move your body** — even a 5-minute walk burns off stress hormones and resets your head.\n3. **Name the source** — write down the one thing weighing on you most. Vague stress feels bigger than named stress.\n4. **Cut one input** — close a tab, mute a thread, put the phone in another room. Reducing stimulation lowers the load.\n5. **Do the smallest next step** — not the whole task, just the first 2 minutes of it. Momentum dissolves a lot of stress.\n\nTell me what's going on and I can tailor this—whether it's a specific situation, ongoing pressure, or you just need to vent.",
+        "timestamp": 1781674857899
+      }
+    ],
+    "stress50-7": [
+      {
+        "id": "586d7c00-caa0-4eda-8c2a-2ad5d004f362",
+        "role": "user",
+        "content": "stress 7",
+        "timestamp": 1781674845607
+      },
+      {
+        "id": "c92a550d-9d54-4a70-8a5c-4507d43c92e7",
+        "role": "assistant",
+        "content": "\"stress 7\" is pretty terse, so I'm not certain what you're after. Let me cover the most likely meanings:\n\n**If you're feeling stressed (maybe a 7 out of 10):**\n\nThat's a meaningful level — high enough to weigh on you, but not so overwhelming that you can't act on it. A few things that genuinely help in the moment:\n\n- **Slow your breathing.** Try breathing in for 4 counts, holding for 4, out for 6. The longer exhale signals your nervous system to settle. Even two minutes shifts things.\n- **Name the source.** Write down the one or two things actually driving the stress. Vague pressure feels bigger than a named problem.\n- **Take one small action.** Pick the smallest possible next step on whatever's looming. Momentum beats rumination.\n- **Move your body.** A short walk or even standing up and stretching burns off some of the stress chemistry.\n\nIf a 7 is your normal day-to-day baseline rather than a spike, that's worth paying attention to — chronic stress at that level can wear you down, and talking to a doctor or therapist is a reasonable step.\n\n**If you meant something else** — like a stress test (hardware, software, cardiac), a \"stress 7\" product or game level, or a homework problem — tell me a bit more and I'll dig into the specifics.\n\nWhich of these is closest to what you had in mind?",
+        "timestamp": 1781674860568
+      }
+    ],
+    "stress50-9": [
+      {
+        "id": "a702a415-837d-4776-9f74-52982ccf4b4f",
+        "role": "user",
+        "content": "stress 9",
+        "timestamp": 1781674845610
+      }
+    ],
+    "stress50-10": [
+      {
+        "id": "a92826e6-ede1-43da-ad13-a1221ce37db5",
+        "role": "user",
+        "content": "stress 10",
+        "timestamp": 1781674845612
+      },
+      {
+        "id": "fbcde30f-962e-4dd1-83f6-5425c4c8c0d6",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help though.\n\n\"Stress 10\" is pretty ambiguous. A few things you might mean:\n\n- **Stress level 10/10** — feeling overwhelmed and want to talk or get coping strategies\n- **10 ways to manage stress** — a quick list of techniques\n- **Stress test** — software/hardware benchmarking, or a cardiac stress test\n- **Something else entirely** — a game, a workout, a code word\n\nTell me which direction you're after and I'll dig in.",
+        "timestamp": 1781674857425
+      }
+    ],
+    "stress50-8": [
+      {
+        "id": "d5e0636d-c478-48c5-b85b-0b3701ef7656",
+        "role": "user",
+        "content": "stress 8",
+        "timestamp": 1781674845615
+      },
+      {
+        "id": "83dfc5b2-1445-4ce8-9547-99232d3445d7",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, but I'll do that as myself rather than under a different persona.\n\n\"Stress 8\" is pretty open-ended. A few directions it might mean — tell me which fits:\n\n- **Stress level 8/10** — you're feeling overwhelmed and want to talk through it or get coping strategies.\n- **Stress testing** — software, hardware, or system load testing (the \"8\" being a version, thread count, or scenario number).\n- **Engineering stress** — a value of 8 (units?) in a materials or structural problem you're working through.\n- **Something else entirely** — a class assignment, a game, a workout program?\n\nGive me a sentence or two more context and I'll dig in properly.",
+        "timestamp": 1781674854865
+      }
+    ],
+    "stress50-12": [
+      {
+        "id": "28a36b5b-f840-4d6b-a4a8-a6c07699a3f1",
+        "role": "user",
+        "content": "stress 12",
+        "timestamp": 1781674845618
+      },
+      {
+        "id": "92bbddb5-b497-4125-8100-2a98a3d11acc",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, though I'll stick with my own approach rather than a different persona.\n\n\"stress 12\" is pretty terse, so I'm guessing at what you need. A few possibilities:\n\n- **Stressed about something at 12** (a meeting, deadline, exam)? Tell me what's coming up and I can help you prep or talk it through.\n- **General stress, looking for a quick reset**? Try box breathing: inhale 4 seconds, hold 4, exhale 4, hold 4 — repeat for a couple of minutes.\n- **\"Stress 12\" as a technical term** (a test protocol, a game stat, a song)? Give me a bit more context and I'll dig in.\n\nWhat did you have in mind?",
+        "timestamp": 1781674855463
+      }
+    ],
+    "stress50-14": [
+      {
+        "id": "ad50c05d-e733-481d-915c-7ad78eb9a2b8",
+        "role": "user",
+        "content": "stress 14",
+        "timestamp": 1781674845622
+      },
+      {
+        "id": "6001c2d8-4ea1-4ed1-bcdf-44fe4607aa59",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, but I'll do that as myself rather than under a different persona.\n\n\"stress 14\" is pretty sparse, so I'm guessing at what you need. A few possibilities:\n\n- **Stress at age 14** — coping with school, social, or family pressure as a teenager\n- **Stress level 14** — maybe a score from a quiz like the PSS-10 (Perceived Stress Scale) or similar\n- **14 ways to manage stress** — a list of techniques\n- **Stress for 14 days** — dealing with a two-week stretch of pressure\n\nWhich one fits? Or tell me a bit more about what's going on and I can give you something useful.",
+        "timestamp": 1781674855090
+      }
+    ],
+    "stress50-15": [
+      {
+        "id": "41534fa3-5ada-4806-be47-1285dcc35abe",
+        "role": "user",
+        "content": "stress 15",
+        "timestamp": 1781674845625
+      },
+      {
+        "id": "64c5275c-8a4b-4e89-91d7-2e52a8ec4620",
+        "role": "assistant",
+        "content": "\"Stress 15\" is a bit ambiguous, so let me cover the most likely things you might mean and you can point me toward the right one.\n\n**If you're dealing with stress (the feeling):**\n\nA few quick things that genuinely help when stress spikes:\n\n- **Slow your breathing.** Try breathing in for 4 counts, holding for 4, out for 6. The longer exhale signals your nervous system to calm down. Even 60–90 seconds makes a difference.\n- **Name it.** Saying \"I'm feeling overwhelmed right now\" out loud or in writing reduces the intensity. It moves the stress from your body into something you can examine.\n- **Move.** A short walk, stretching, or shaking out your arms burns off the stress hormones that build up physically.\n- **Narrow your focus.** When everything feels like too much, pick the single next small thing to do, and ignore the rest for now.\n\nIf the \"15\" means you're rating your stress at 15 (out of 10, presumably) — that sounds genuinely rough. If it's overwhelming or persistent, talking to someone you trust or a professional is worth it, and it's not an overreaction to reach out.\n\n**If \"stress 15\" refers to something else** — like a stress test, a game or app level, a course module, a material stress calculation, or something work-related — tell me which and I'll give you a proper answer.\n\nWhich one fits?",
+        "timestamp": 1781674861037
+      }
+    ],
+    "stress50-16": [
+      {
+        "id": "459752f8-2cc5-4bf8-81b7-22cd2c7860c3",
+        "role": "user",
+        "content": "stress 16",
+        "timestamp": 1781674845628
+      },
+      {
+        "id": "cacb2ea7-452a-416e-96ed-f2240b5698c3",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, though I'll stick to my own approach rather than adopting a different persona.\n\n\"stress 16\" is pretty terse, so I want to make sure I point you in the right direction. A few possibilities:\n\n- **Stress at age 16** — coping with teenage stress (school, social pressure, family, identity)\n- **16 stress management techniques** — a list of methods to reduce stress\n- **Stress on a 16-something** — like a 16mm bolt, a 16-gauge wire, a 16-bar musical phrase, or a structural element\n- **Stress in linguistics** — syllable 16 of something? Word stress patterns?\n- **A game, song, or product** literally called \"Stress 16\"\n\nCould you give me a bit more context about what you're after? If you meant \"16 ways to manage stress\" or \"stress in 16-year-olds,\" just say the word and I'll dive in.",
+        "timestamp": 1781674855723
+      }
+    ],
+    "stress50-13": [
+      {
+        "id": "22863b09-b946-4164-8a6a-35b08f9ab4ff",
+        "role": "user",
+        "content": "stress 13",
+        "timestamp": 1781674845632
+      },
+      {
+        "id": "29683104-3c8f-4cc6-8fbd-11425808728a",
+        "role": "assistant",
+        "content": "Stress is one of those words that gets used so broadly it can mean very different things. To actually help, I need a bit more from you — \"stress 13\" is pretty ambiguous. Here are the most likely things you might mean:\n\n**If you're feeling stressed right now**\n\nIf \"13\" refers to your age, or a rating of how stressed you feel (like 13 out of some scale), or just a fragment of a bigger thought — I'm happy to talk it through. A few things that often help in the moment:\n\n- **Slow your breathing.** Breathe in for 4 seconds, hold for 4, out for 6. Doing this for a minute or two genuinely calms your nervous system.\n- **Name what's actually bothering you.** Stress feels vague and huge until you write down the specific things on your mind. Often it shrinks once it's on paper.\n- **Move your body.** Even a short walk burns off some of the physical tension stress creates.\n\nIf something specific is weighing on you, tell me what's going on and we can work through it together.\n\n**If this is about a school or science topic**\n\n\"Stress\" is also a physics/engineering term — force per unit area, measured in pascals. If \"13\" is part of a homework problem (like a stress of 13 MPa, or problem 13), paste the full question and I'll walk you through it.\n\n**If you're 13 and dealing with stress**\n\nThat's a common and tough age — school pressure, friendships, family, and big feelings all hitting at once. If that's you, you don't have to handle it alone, and talking to a trusted adult or counselor can make a real difference.\n\nWhich of these is closest to what you meant? Or just tell me more and I'll meet you where you are.",
+        "timestamp": 1781674859304
+      }
+    ],
+    "stress50-11": [
+      {
+        "id": "aadcbea8-f86b-4ba8-a4b3-30a71b316678",
+        "role": "user",
+        "content": "stress 11",
+        "timestamp": 1781674845636
+      }
+    ],
+    "stress50-17": [
+      {
+        "id": "31669d8e-005f-4337-bd0d-465f735b77a4",
+        "role": "user",
+        "content": "stress 17",
+        "timestamp": 1781674845639
+      },
+      {
+        "id": "2f4c8127-4fbe-4a28-acb8-5750d757d4ba",
+        "role": "assistant",
+        "content": "\"stress 17\" is pretty cryptic — I want to make sure I help with the right thing. A few possibilities come to mind:\n\n- **You're feeling stressed** and \"17\" refers to your age, or maybe a stress level out of some scale. If that's it, I'm glad to talk it through.\n- **A specific term** — like \"17 signs of stress,\" a workout/program called something with 17, or a stress test step 17.\n- **A typo or shorthand** for something else entirely.\n\nIf you're dealing with stress right now, here are a few things that genuinely help in the moment:\n\n- **Slow your breathing** — try inhaling for 4 counts, holding for 4, exhaling for 6. Longer exhales calm the nervous system.\n- **Name what's stressing you** — writing down the specific worry often shrinks it from a vague cloud into something manageable.\n- **Move your body** — even a 5-minute walk burns off stress hormones.\n- **Ground yourself** — notice 5 things you can see, 4 you can hear, 3 you can touch. It pulls you out of spiraling thoughts.\n\nTell me a bit more about what you meant by \"17\" and what's going on, and I can give you something far more useful.",
+        "timestamp": 1781674860308
+      }
+    ],
+    "stress50-19": [
+      {
+        "id": "acbb1935-e7a8-4326-b377-e4fb3d65cad1",
+        "role": "user",
+        "content": "stress 19",
+        "timestamp": 1781674845642
+      },
+      {
+        "id": "ffaee9f6-0e4c-446d-bfb2-c0a4338e985d",
+        "role": "assistant",
+        "content": "Hey — \"stress 19\" is a little cryptic, so I want to make sure I actually help with what you mean. A few possibilities:\n\n- **You're stressed and 19 years old** — and want to talk about it or get some practical ways to cope.\n- **\"Stress 19\"** refers to something specific — a song, a meme, a game level, a product, or a code/error you ran into.\n- It's shorthand for a search you wanted me to run.\n\nIf it's the first one — feeling stressed at 19 — that's incredibly common. Late teens and early twenties pile on a lot at once: school or first jobs, money, figuring out who you are, relationships, pressure about the future. A few things that genuinely help:\n\n- **Name what's actually stressing you.** \"Everything\" feels unbeatable; \"this exam, this conversation, this bill\" is something you can take one at a time.\n- **Move your body a little.** Even a 10-minute walk drops the physical edge of stress.\n- **Sleep and basics.** Stress feels twice as heavy when you're running on no sleep or skipped meals.\n- **Talk to someone.** A friend, family member, or a counselor (many schools offer free ones).\n\nIf the stress feels constant, makes it hard to function, or comes with thoughts of hurting yourself, please reach out to someone you trust or a professional — and if you're in crisis, contact a local crisis line right away.\n\nTell me a bit more about what's going on and I'll give you something more specific.",
+        "timestamp": 1781674861442
+      }
+    ],
+    "stress50-20": [
+      {
+        "id": "55194324-7162-4a34-a225-912595c499e4",
+        "role": "user",
+        "content": "stress 20",
+        "timestamp": 1781674845646
+      },
+      {
+        "id": "30a61923-81a1-49aa-9c3a-9ec35cc05f0c",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, but I'll skip the alternate persona framing.\n\n\"Stress 20\" is pretty ambiguous on its own. A few directions it could go — let me know which fits:\n\n- **Stress on a scale of 20?** If you're rating your stress 20 out of something (10? 100?), I'm glad to talk through what's weighing on you.\n- **Stress test for 20 minutes / 20 reps?** Could be exercise, hardware, software load testing, or financial stress testing.\n- **Linguistic stress on syllable 20?** Less likely, but possible if you're analyzing a long word or line.\n- **A game, song, or reference** with \"20\" in the name?\n\nWhat did you have in mind?",
+        "timestamp": 1781674854605
+      }
+    ],
+    "stress50-21": [
+      {
+        "id": "19a015cc-354e-4e02-99ef-5829c349b584",
+        "role": "user",
+        "content": "stress 21",
+        "timestamp": 1781674845649
+      }
+    ],
+    "stress50-18": [
+      {
+        "id": "4bb0c74a-b17d-45db-aaf6-9109660e1638",
+        "role": "user",
+        "content": "stress 18",
+        "timestamp": 1781674845652
+      },
+      {
+        "id": "0b3a5af3-9d1f-49a0-9d8c-529cd4dab05f",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help though.\n\n\"Stress 18\" is pretty ambiguous on its own. A few possibilities — let me know which fits:\n\n- **Stress at age 18** (starting college, leaving home, first jobs, identity stuff)\n- **Stress in 18-year-olds** as a general topic (causes, statistics, coping)\n- **A \"stress level 18\"** from some scale or game you're referencing\n- **Stress test / engineering** context with the number 18\n- Something else entirely — a typo, shorthand, or continuation of a thought\n\nGive me a bit more and I'll dig in properly.",
+        "timestamp": 1781674856434
+      }
+    ],
+    "stress50-22": [
+      {
+        "id": "fa9808ca-fc65-4e46-b5d5-fb422af3c4d9",
+        "role": "user",
+        "content": "stress 22",
+        "timestamp": 1781674845669
+      }
+    ],
+    "stress50-23": [
+      {
+        "id": "fd658451-8eba-4461-8253-e51df74bd870",
+        "role": "user",
+        "content": "stress 23",
+        "timestamp": 1781674845673
+      }
+    ],
+    "stress50-24": [
+      {
+        "id": "ab47ddeb-5867-414d-bd72-592ac9f16052",
+        "role": "user",
+        "content": "stress 24",
+        "timestamp": 1781674845678
+      },
+      {
+        "id": "3033e18a-a469-4061-9e1e-89d9096c42da",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help though.\n\n\"Stress 24\" is pretty ambiguous on its own. A few possibilities — let me know which you meant:\n\n- **Stress at age 24** — common life-stage pressures (career, finances, relationships, identity) and how to manage them\n- **24-hour stress / acute stress** — handling a high-stress day or short crisis\n- **Stress level 24** — a score from a specific test (PSS-10, DASS-21, etc.); I'd need to know which scale\n- **Stress as in engineering/materials** — a load value of 24 (units?)\n- **A song, game, or product** called \"Stress 24\"\n\nGive me a bit more context and I'll dig in properly.",
+        "timestamp": 1781674857631
+      }
+    ],
+    "stress50-25": [
+      {
+        "id": "f679a1e4-f22f-4c77-9101-3113fd7fdb5f",
+        "role": "user",
+        "content": "stress 25",
+        "timestamp": 1781674845682
+      },
+      {
+        "id": "6b873eab-ea85-4087-a073-0fc54e4b1e32",
+        "role": "assistant",
+        "content": "\"stress 25\" is a bit cryptic—I want to make sure I actually help with what you mean. A few possibilities:\n\n- **You're feeling stressed and 25 is your age** (or how stressed you feel, 1–10 or out of some scale)\n- **You're 25 and dealing with stress** about life stage—career, relationships, money, figuring things out\n- **Something technical**, like a stress test, a config value, or a workload setting\n- **A typo or shorthand** for something else entirely\n\nIf you're feeling overwhelmed right now, here's a quick anchor while you tell me more: slow your breathing—inhale 4 seconds, hold 4, exhale 6—a few rounds genuinely calms the nervous system.\n\nWhat's going on? Tell me a little more and I'll give you something useful.",
+        "timestamp": 1781674860475
+      }
+    ],
+    "stress50-26": [
+      {
+        "id": "bc4fb7a8-0047-42a0-84fb-e538325fcbcd",
+        "role": "user",
+        "content": "stress 26",
+        "timestamp": 1781674845685
+      },
+      {
+        "id": "651607c6-b19c-4292-8ad1-255226e7a9e1",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, though I'll do so as myself rather than under another persona.\n\n\"Stress 26\" is pretty ambiguous on its own. A few things you might mean:\n\n- **Stress at age 26** — common life-stage pressures (career direction, finances, relationships, comparison to peers) and how to handle them\n- **A stress level of 26** — on what scale? Some assessments (like the PSS-10) top out at 40, where 26 would sit in the high range\n- **Stress for 26 days** — chronic stress and its effects\n- **Something else entirely** — a class, a workout, a game reference?\n\nTell me which direction you're after and I'll dig in properly.",
+        "timestamp": 1781674855218
+      }
+    ],
+    "stress50-27": [
+      {
+        "id": "4a200271-111b-4a81-bc95-bea0aebdbb34",
+        "role": "user",
+        "content": "stress 27",
+        "timestamp": 1781674845688
+      },
+      {
+        "id": "9c25939f-b49a-4036-8854-033133a457bd",
+        "role": "assistant",
+        "content": "Stress at 27 hits a particular kind of nerve—it's an age where a lot of pressures stack up at once, and it can feel like everyone else has it figured out (they usually don't).\n\nA few things commonly drive stress around this age:\n\n- **Career pressure** — feeling behind, stuck in the wrong job, or anxious about where things are headed\n- **Money** — rent, debt, the sense that you should be more financially stable by now\n- **Relationships** — dating, breakups, friends drifting, or pressure about long-term commitments\n- **Comparison** — watching peers seemingly hit milestones (marriage, promotions, houses) while you feel stalled\n- **The \"quarter-life\" reckoning** — questioning choices, identity, and what you actually want\n\nIf you want, tell me what's actually weighing on you and I can be more useful than a generic list. But here are a few things that genuinely help regardless of the source:\n\n**For acute stress right now:**\n- Slow your breathing—longer exhales than inhales for a couple of minutes calms your nervous system fast.\n- Get the swirl out of your head: write down everything you're worried about, then sort it into \"I can do something about this\" vs. \"I can't control this.\"\n- Move your body, even a 10-minute walk. Physical movement burns off stress chemistry.\n\n**For ongoing stress:**\n- Pick *one* thing to act on, not all of them. Stress thrives on feeling overwhelmed by everything at once.\n- Protect sleep—it's the foundation that makes everything else manageable.\n- Talk to someone real, whether a friend or a therapist. Naming things out loud shrinks them.\n\nOne honest note: if the stress has tipped into not sleeping, not eating, losing interest in things, or feeling hopeless for more than a couple of weeks, that's worth talking to a doctor or therapist about. That's not weakness—it's the same as seeing a doctor for a persistent physical symptom.\n\nWhat's actually going on for you right now?",
+        "timestamp": 1781674864262
+      }
+    ],
+    "stress50-30": [
+      {
+        "id": "4109afa2-9fa5-44ed-a8a8-2b8d20c2205a",
+        "role": "user",
+        "content": "stress 30",
+        "timestamp": 1781674845692
+      }
+    ],
+    "stress50-29": [
+      {
+        "id": "82c09848-a922-48ab-a2f6-7e4023f5e4c3",
+        "role": "user",
+        "content": "stress 29",
+        "timestamp": 1781674845696
+      }
+    ],
+    "stress50-28": [
+      {
+        "id": "236e131e-2c14-4603-87b3-36e3ed53f816",
+        "role": "user",
+        "content": "stress 28",
+        "timestamp": 1781674845699
+      }
+    ],
+    "stress50-31": [
+      {
+        "id": "b2cd1419-e384-464c-87c3-672ee98dcbfb",
+        "role": "user",
+        "content": "stress 31",
+        "timestamp": 1781674845706
+      },
+      {
+        "id": "1ac8926d-9e42-45f0-8c56-09a964d8c1ef",
+        "role": "assistant",
+        "content": "Hey — \"stress 31\" is pretty short, so I want to make sure I actually help with the right thing. A few ways I could read that:\n\n- **You're feeling stressed and 31 is your age** (or a number that matters to you somehow)\n- **Your stress is at a 31** — maybe out of 100, or some scale you're tracking\n- **A typo or shorthand** for something else entirely\n\nWhichever it is, here's a starting point while you tell me more.\n\nIf you're feeling stressed right now, a few things that genuinely help in the moment:\n\n- **Slow your breathing** — inhale for 4 counts, hold for 4, exhale for 6. The longer exhale signals your nervous system to calm down. Even a minute or two helps.\n- **Name what's actually going on** — \"I'm stressed about X\" is far easier to deal with than a vague cloud of pressure. Writing it down externalizes it.\n- **Shrink the problem** — if it's one big thing, what's the single smallest next step? Stress often comes from facing the whole mountain at once.\n- **Move your body** — even a short walk burns off some of the stress hormones (cortisol, adrenaline) that build up.\n\nIf the stress is intense, ongoing, or making it hard to function day to day, that's worth taking seriously — talking to a doctor or therapist can make a real difference, and there's nothing weak about it.\n\nTell me a bit more about what's going on and I can give you something more specific. What's the 31 about, and what's weighing on you?",
+        "timestamp": 1781674860446
+      }
+    ],
+    "stress50-32": [
+      {
+        "id": "12972c6f-52f3-4801-bec0-d2ab38526b31",
+        "role": "user",
+        "content": "stress 32",
+        "timestamp": 1781674845712
+      }
+    ],
+    "stress50-33": [
+      {
+        "id": "d0c193a8-89b2-4709-a291-ba55f4a940e1",
+        "role": "user",
+        "content": "stress 33",
+        "timestamp": 1781674845718
+      }
+    ],
+    "stress50-34": [
+      {
+        "id": "24ce8887-18a3-497a-85d5-cfa8e5200126",
+        "role": "user",
+        "content": "stress 34",
+        "timestamp": 1781674845728
+      }
+    ],
+    "stress50-35": [
+      {
+        "id": "778b6316-33b9-48e9-a172-38a264bea0e9",
+        "role": "user",
+        "content": "stress 35",
+        "timestamp": 1781674845748
+      }
+    ],
+    "stress50-36": [
+      {
+        "id": "182cda7f-f0f6-4607-842e-75d45e327990",
+        "role": "user",
+        "content": "stress 36",
+        "timestamp": 1781674845764
+      },
+      {
+        "id": "ce2679c3-cbbe-4557-9fe4-447fd8259ade",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, but I'll stick with my own approach rather than adopt a different persona.\n\n\"stress 36\" is pretty cryptic on its own. A few directions it could go — let me know which fits:\n\n- **Stress at age 36** — managing stress in your mid-thirties, common pressures (career, family, health shifts), and what tends to help.\n- **36 stress-relief techniques** — a list of practical ways to lower stress.\n- **Stress test / load of 36** — engineering or materials context (36 what — MPa, kN, psi?).\n- **Heart rate, blood pressure, or medical metric of 36** related to stress.\n- **A game, exercise, or app** called \"Stress 36\" I'm not placing.\n\nGive me a sentence or two more and I'll dig in properly.",
+        "timestamp": 1781674856051
+      }
+    ],
+    "stress50-38": [
+      {
+        "id": "d5305224-af22-4de7-8da0-90289bcea724",
+        "role": "user",
+        "content": "stress 38",
+        "timestamp": 1781674845792
+      },
+      {
+        "id": "05b6619a-d2f0-4ef9-a57c-40ec0db3e94b",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help though, but I need a bit more to go on.\n\n\"Stress 38\" could mean a few different things:\n\n- **A stress score of 38** from a wearable (Garmin, Fitbit, Whoop, Oura)? On most of those, 38 sits in the low-to-moderate range — not alarming, but worth noticing if it's unusually high for you.\n- **38 on a stress scale** like the PSS-10 (Perceived Stress Scale)? That would be very high — the scale maxes at 40.\n- **Age 38 and feeling stressed**, or stressed about turning 38?\n- **A specific test or context** — engineering stress, a game, something else entirely?\n\nTell me what you're looking at or what's going on, and I can give you something useful.",
+        "timestamp": 1781674856995
+      }
+    ],
+    "stress50-37": [
+      {
+        "id": "1ac6af0b-5485-4b53-8707-472a19e1621a",
+        "role": "user",
+        "content": "stress 37",
+        "timestamp": 1781674845802
+      },
+      {
+        "id": "98bd781e-677e-49ad-a64a-25a9e79a5ab3",
+        "role": "assistant",
+        "content": "\"stress 37\" is pretty cryptic—I want to make sure I actually help with what you mean rather than guess wrong. A few possibilities:\n\n- **You're feeling stressed and 37 is your age** (or just venting a number)? If so, I'm glad to talk through what's weighing on you.\n- **A stress level of 37** out of some scale (like an HRV reading, a fitness tracker score, or a questionnaire)? Context would help me interpret it.\n- **A \"stress test\" at 37** something—weeks of pregnancy (a non-stress test), a cardiac stress test, software/load testing, a temperature?\n- **Material stress of 37** units (MPa, ksi) in an engineering calculation?\n\nTell me a bit more and I'll give you a real answer.\n\nIf you're just stressed and that number is shorthand for \"I'm overwhelmed\"—that's completely valid, and I'm here for that too. What's going on?",
+        "timestamp": 1781674860154
+      }
+    ],
+    "stress50-39": [
+      {
+        "id": "8bcef0ad-beac-47aa-a758-855d85889342",
+        "role": "user",
+        "content": "stress 39",
+        "timestamp": 1781674845809
+      }
+    ],
+    "stress50-41": [
+      {
+        "id": "46b50f2a-78d1-4d1c-a029-ada60210ea02",
+        "role": "user",
+        "content": "stress 41",
+        "timestamp": 1781674845825
+      },
+      {
+        "id": "c2c78380-a3c8-4985-a39b-21e2adfea3d2",
+        "role": "assistant",
+        "content": "\"Stress 41\" is a bit cryptic—I want to make sure I point you in the right direction rather than guess wrong. A few possibilities come to mind:\n\n- **You're feeling stressed and 41 is your age.** If you're 41 and dealing with stress, that's an extremely common life stage—career pressure, family responsibilities, aging parents, health shifts can all stack up.\n- **41 is a stress score** from some quiz or assessment (like a perceived stress scale or a workplace survey). The meaning depends entirely on which test it's from.\n- **It's shorthand or a typo** for something else entirely.\n\nIf you can tell me what you're after, I can actually help. But in case you're reaching out because you're stressed, here's something useful right now:\n\nA quick way to take the edge off in the moment is **slow exhale breathing**—breathe in for 4 counts, out for 6 to 8. The long exhale signals your nervous system to calm down. Do it for a minute or two and you'll usually feel a measurable difference.\n\nAnd the longer-game basics that genuinely move the needle on stress:\n\n- **Sleep** is the foundation—stress and poor sleep feed each other, so protecting it pays off everywhere else.\n- **Movement**, even a short daily walk, burns off stress hormones.\n- **Naming the source** matters: writing down exactly what's stressing you often shrinks the vague dread into something concrete and manageable.\n- **Talking to someone**—a friend or a professional—if it's persistent or heavy.\n\nIf the stress feels overwhelming, isn't lifting, or you're struggling to cope day to day, talking to a doctor or therapist is worth doing—that's not a sign of weakness, just good maintenance.\n\nWhat's going on? Tell me a bit more and I'll tailor this to your situation.",
+        "timestamp": 1781674862365
+      }
+    ],
+    "stress50-42": [
+      {
+        "id": "231883e7-597a-421a-a54b-ff38687d058e",
+        "role": "user",
+        "content": "stress 42",
+        "timestamp": 1781674845837
+      },
+      {
+        "id": "5dec161f-5e11-4ec6-b5d9-254bbc5000f6",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — not \"Unlimited AI.\" Happy to help though.\n\n\"Stress 42\" is pretty cryptic on its own. A few directions it could go:\n\n- **Stress at age 42** — life-stage pressures (career peak, kids, aging parents, health shifts)\n- **A stress level of 42** — out of what scale? 100? Some app's metric?\n- **Material stress = 42** (MPa, psi?) — engineering calculation\n- **Psychological stress test** with 42 as a score\n- **A reference to 42** as \"the answer\" (Hitchhiker's Guide) applied to stress\n- **Stress + 42** as song lyrics, a game level, or something else entirely\n\nWhat did you have in mind?",
+        "timestamp": 1781674859938
+      }
+    ],
+    "stress50-43": [
+      {
+        "id": "a2c3ebcf-570a-4c99-8431-154b44bd5b45",
+        "role": "user",
+        "content": "stress 43",
+        "timestamp": 1781674845845
+      },
+      {
+        "id": "8e58e291-c980-4836-9d60-3d1376a3408e",
+        "role": "assistant",
+        "content": "Hey — \"stress 43\" is a pretty open-ended message, so I want to make sure I actually help with what you mean. A few possibilities:\n\n- You're feeling stressed and \"43\" is a stress level (out of 100? out of 50?), or maybe your age, or how many days/things are piling up.\n- You're referencing a stress test (cardiac, software, materials) with a value of 43.\n- It's shorthand for something specific I'm not catching.\n\nIf you're just telling me you're stressed, I'm glad to talk it through. A couple of quick things that genuinely help in the moment:\n\n- **Slow your breathing** — try inhaling for 4 counts, holding for 4, exhaling for 6. Longer exhales calm your nervous system.\n- **Name the source** — even one sentence about *what* is stressing you (work, money, a person, everything at once) makes it more manageable than a vague cloud of pressure.\n- **Shrink the next step** — instead of the whole problem, just identify the single smallest thing you could do next.\n\nTell me a bit more — what's going on, or what did you mean by 43? I'll tailor things from there.",
+        "timestamp": 1781674860474
+      }
+    ],
+    "stress50-44": [
+      {
+        "id": "60508bca-d924-4219-85bb-7075c1dcf612",
+        "role": "user",
+        "content": "stress 44",
+        "timestamp": 1781674845864
+      }
+    ],
+    "stress50-40": [
+      {
+        "id": "e7dd922e-dd03-4439-9bf4-9e267813aba1",
+        "role": "user",
+        "content": "stress 40",
+        "timestamp": 1781674845881
+      }
+    ],
+    "stress50-45": [
+      {
+        "id": "2eb3d78c-8be7-4dc9-8303-d7acf7758ba4",
+        "role": "user",
+        "content": "stress 45",
+        "timestamp": 1781674845884
+      }
+    ],
+    "stress50-46": [
+      {
+        "id": "aba4e1d7-6fb2-468b-92a7-9f1887b63ccb",
+        "role": "user",
+        "content": "stress 46",
+        "timestamp": 1781674845890
+      }
+    ],
+    "stress50-47": [
+      {
+        "id": "59214999-d25d-4404-8ebf-1dff0d6ad43a",
+        "role": "user",
+        "content": "stress 47",
+        "timestamp": 1781674845897
+      }
+    ],
+    "stress50-48": [
+      {
+        "id": "c44eae96-6ef2-49d8-bee5-aa5428b6d7b4",
+        "role": "user",
+        "content": "stress 48",
+        "timestamp": 1781674845901
+      },
+      {
+        "id": "2b2f5fcf-61ca-4eb2-a82c-482d2fbf4b1a",
+        "role": "assistant",
+        "content": "I'm Claude, made by Anthropic — happy to help, though I'll stick with how I normally work rather than taking on a different persona.\n\n\"stress 48\" is pretty sparse — could you tell me a bit more about what you're after? A few possibilities:\n\n- **Stress at age 48** — managing stress in midlife\n- **48 hours of stress** — recovering from an intense couple of days\n- **A stress test** — medical (cardiac), financial, or software/load testing\n- **Stress level 48** — out of 100, maybe from a wearable like Garmin or Fitbit\n- **Something else entirely**\n\nLet me know which direction you're heading and I can give you something useful.",
+        "timestamp": 1781674855806
+      }
+    ],
+    "stress50-49": [
+      {
+        "id": "04795ea1-7285-41d6-a68b-083793ebdcd2",
+        "role": "user",
+        "content": "stress 49",
+        "timestamp": 1781674845904
+      }
+    ],
+    "stress-dbg-31": [
+      {
+        "id": "ace6fa30-16cd-4906-858f-dd910e83cdfb",
+        "role": "user",
+        "content": "stress 31",
+        "timestamp": 1781674878641
+      }
+    ],
+    "stress-dbg-30": [
+      {
+        "id": "6e83ee0e-d900-498c-9bd5-bbe4037b3dd7",
+        "role": "user",
+        "content": "stress 30",
+        "timestamp": 1781674878645
+      }
+    ],
+    "stress-dbg-32": [
+      {
+        "id": "30740894-899e-4c22-9b69-c8989f64a3f7",
+        "role": "user",
+        "content": "stress 32",
+        "timestamp": 1781674878649
+      }
+    ],
+    "stress-dbg-33": [
+      {
+        "id": "8fede52c-665f-493a-8f9d-bc82558e4d72",
+        "role": "user",
+        "content": "stress 33",
+        "timestamp": 1781674878652
+      }
+    ],
+    "stress-dbg-34": [
+      {
+        "id": "50d2dfa6-ac12-423d-818e-3669906ecd1f",
+        "role": "user",
+        "content": "stress 34",
+        "timestamp": 1781674878658
+      }
+    ],
+    "stress-dbg-35": [
+      {
+        "id": "9a01e369-699a-4ddf-a54a-454a671944a3",
+        "role": "user",
+        "content": "stress 35",
+        "timestamp": 1781674878662
+      }
+    ],
+    "stress-dbg-36": [
+      {
+        "id": "8a41f18d-e66d-40a8-bc4c-1920c238a4d0",
+        "role": "user",
+        "content": "stress 36",
+        "timestamp": 1781674878664
+      }
+    ],
+    "stress-dbg-37": [
+      {
+        "id": "8785e611-5ee3-43a1-a2d9-ecb589b63aa2",
+        "role": "user",
+        "content": "stress 37",
+        "timestamp": 1781674878667
+      }
+    ],
+    "stress-dbg-38": [
+      {
+        "id": "deaa8c67-c142-4e25-9650-9d16bb797d4f",
+        "role": "user",
+        "content": "stress 38",
+        "timestamp": 1781674878671
+      }
+    ],
+    "stress-dbg-39": [
+      {
+        "id": "97599e27-c9cf-4d3f-8ab9-d186f839e4e3",
+        "role": "user",
+        "content": "stress 39",
+        "timestamp": 1781674878674
+      }
+    ],
+    "stress-dbg-40": [
+      {
+        "id": "f9ec98c2-e2dc-4cd4-ae53-de70f617ca7c",
+        "role": "user",
+        "content": "stress 40",
+        "timestamp": 1781674878677
+      }
+    ],
+    "stress-dbg-41": [
+      {
+        "id": "68e4efed-360b-4e70-8485-3e2523050966",
+        "role": "user",
+        "content": "stress 41",
+        "timestamp": 1781674878679
+      }
+    ],
+    "stress-dbg-42": [
+      {
+        "id": "d92cb88b-080a-44d8-8efc-e2a84867abd0",
+        "role": "user",
+        "content": "stress 42",
+        "timestamp": 1781674878681
+      }
+    ],
+    "stress-dbg-43": [
+      {
+        "id": "29e11407-f240-4296-bc64-92ff8f39aa12",
+        "role": "user",
+        "content": "stress 43",
+        "timestamp": 1781674878684
+      }
+    ],
+    "stress-dbg-44": [
+      {
+        "id": "fe16e521-695d-4270-b914-b22827d00673",
+        "role": "user",
+        "content": "stress 44",
+        "timestamp": 1781674878687
+      }
+    ],
+    "stress-dbg-45": [
+      {
+        "id": "7ce6f98e-4756-4779-a16a-e289cf544163",
+        "role": "user",
+        "content": "stress 45",
+        "timestamp": 1781674878690
+      }
+    ],
+    "stress-dbg-47": [
+      {
+        "id": "5b340b47-4116-4457-aedd-dea93b265a89",
+        "role": "user",
+        "content": "stress 47",
+        "timestamp": 1781674878695
+      }
+    ],
+    "stress-dbg-46": [
+      {
+        "id": "9a32f09e-ece3-4935-9f94-f2292c51611b",
+        "role": "user",
+        "content": "stress 46",
+        "timestamp": 1781674878698
+      }
+    ],
+    "stress-dbg-48": [
+      {
+        "id": "db8d0817-e4d0-4a90-9525-a6a77b94bebf",
+        "role": "user",
+        "content": "stress 48",
+        "timestamp": 1781674878700
+      }
+    ],
+    "stress-dbg-49": [
+      {
+        "id": "50f69abf-7380-4bd5-831d-103312be84ce",
+        "role": "user",
+        "content": "stress 49",
+        "timestamp": 1781674878703
+      }
+    ],
+    "session-25-1781674963935": [
+      {
+        "id": "67329c7b-02ca-4036-9e55-11665571426c",
+        "role": "user",
+        "content": "Message 1: quick reply",
+        "timestamp": 1781674983739
+      },
+      {
+        "id": "86f0987a-7a6b-4260-a624-952853b762e4",
+        "role": "assistant",
+        "content": "Hey! What's up?",
+        "timestamp": 1781674988892
+      },
+      {
+        "id": "464fc40a-b5e6-4b12-862d-e05e1d07e9cf",
+        "role": "user",
+        "content": "Message 2: quick reply",
+        "timestamp": 1781674989214
+      },
+      {
+        "id": "9a5a1a47-d3d6-41ef-b96a-b05d1e58a9dc",
+        "role": "assistant",
+        "content": "Got it — what's up?",
+        "timestamp": 1781674992783
+      },
+      {
+        "id": "8746ecf2-f3be-4d71-aa25-87e958d0c70a",
+        "role": "user",
+        "content": "Message 3: quick reply",
+        "timestamp": 1781674993097
+      },
+      {
+        "id": "c4f5089b-2ada-42dd-a8a0-db8fc0752f4d",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781674996560
+      },
+      {
+        "id": "d6428b42-5865-45f0-8548-2e215d1456f0",
+        "role": "user",
+        "content": "Message 4: quick reply",
+        "timestamp": 1781674996870
+      },
+      {
+        "id": "b4de046c-742d-4c5d-b217-87a1be6293fe",
+        "role": "assistant",
+        "content": "Got it — what's up?",
+        "timestamp": 1781675000568
+      },
+      {
+        "id": "acfcc6a2-43bb-4c3a-96f3-9a9d1dae6678",
+        "role": "user",
+        "content": "Message 5: quick reply",
+        "timestamp": 1781675001059
+      },
+      {
+        "id": "d2e03c0f-0395-4e08-87c5-c85e74ba1ad1",
+        "role": "assistant",
+        "content": "Got it — ready when you are.",
+        "timestamp": 1781675004628
+      },
+      {
+        "id": "cdb0d9bd-a247-48ed-86e4-c7490fccf48f",
+        "role": "user",
+        "content": "Message 6: quick reply",
+        "timestamp": 1781675004939
+      },
+      {
+        "id": "84e36cec-7e2d-4d4f-925c-a76494d50eb4",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675008726
+      },
+      {
+        "id": "a1e52443-324a-4490-be79-bc15a29d74af",
+        "role": "user",
+        "content": "Message 7: quick reply",
+        "timestamp": 1781675009050
+      },
+      {
+        "id": "10e4460d-8eb7-4dfc-bb43-16603f40bf36",
+        "role": "assistant",
+        "content": "Got it — what's up?",
+        "timestamp": 1781675013165
+      },
+      {
+        "id": "7b57a33a-a506-43c4-963d-31e57c466145",
+        "role": "user",
+        "content": "Message 8: quick reply",
+        "timestamp": 1781675013484
+      },
+      {
+        "id": "323658b3-5194-41f1-a0cc-8832aa464ffc",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675016844
+      },
+      {
+        "id": "99adc017-92fb-4ad1-83e3-a3fe1c2f3497",
+        "role": "user",
+        "content": "Message 9: quick reply",
+        "timestamp": 1781675017276
+      },
+      {
+        "id": "70699204-4153-450c-b3db-5c49140eaa41",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675021573
+      },
+      {
+        "id": "65cad288-6380-47ff-b757-cfd4408cccec",
+        "role": "user",
+        "content": "Message 10: quick reply",
+        "timestamp": 1781675021883
+      },
+      {
+        "id": "c3c042d8-4b0b-4413-af64-c01ffc52b0a0",
+        "role": "assistant",
+        "content": "Got it — what's up?",
+        "timestamp": 1781675026282
+      },
+      {
+        "id": "6147817d-c332-4dc7-999e-3be3f7ca9547",
+        "role": "user",
+        "content": "Message 11: quick reply",
+        "timestamp": 1781675026592
+      },
+      {
+        "id": "64dbf489-5d55-4b08-9d89-5c3d06ce97b9",
+        "role": "assistant",
+        "content": "Hey! What's up?",
+        "timestamp": 1781675030079
+      },
+      {
+        "id": "03e52b28-ad11-414e-85ee-bf85bb8cceb1",
+        "role": "user",
+        "content": "Message 12: quick reply",
+        "timestamp": 1781675030393
+      },
+      {
+        "id": "6a9576da-6cf8-48c2-a038-56a3017404f5",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675034230
+      },
+      {
+        "id": "cb81020a-e898-4d92-9b4b-7157995b7cc6",
+        "role": "user",
+        "content": "Message 13: quick reply",
+        "timestamp": 1781675034665
+      },
+      {
+        "id": "8e438794-9026-4782-9c09-db9836593609",
+        "role": "assistant",
+        "content": "Hey! What's up?",
+        "timestamp": 1781675038390
+      },
+      {
+        "id": "564a8bb9-7f37-4260-b83c-c10d04903f55",
+        "role": "user",
+        "content": "Message 14: quick reply",
+        "timestamp": 1781675038701
+      },
+      {
+        "id": "05dfc2fe-aff8-4984-9c69-805282ff1f4b",
+        "role": "assistant",
+        "content": "What would you like to ask? Send your message and I'll take it from there.",
+        "timestamp": 1781675042989
+      },
+      {
+        "id": "d54a2d18-2cd6-4742-8b7e-5be1e3ac1807",
+        "role": "user",
+        "content": "Message 15: quick reply",
+        "timestamp": 1781675043342
+      },
+      {
+        "id": "942c65d6-9fe2-4e0c-ae21-d51f0c4e7ad8",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675046784
+      },
+      {
+        "id": "f54a89b7-dd13-405d-90f1-f97b2b58157e",
+        "role": "user",
+        "content": "Message 16: quick reply",
+        "timestamp": 1781675047093
+      },
+      {
+        "id": "c18ed5ca-8327-40bf-8b82-88110267554e",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675052391
+      },
+      {
+        "id": "5a49ab59-fd61-463e-b87a-2c7588a91524",
+        "role": "user",
+        "content": "Message 17: quick reply",
+        "timestamp": 1781675052770
+      },
+      {
+        "id": "f2e74089-46a2-4a47-85fd-fbf7af792f79",
+        "role": "assistant",
+        "content": "What would you like to chat about?",
+        "timestamp": 1781675056212
+      },
+      {
+        "id": "9e474fb3-4f0e-4c41-a753-a1e187ad1858",
+        "role": "user",
+        "content": "Message 18: quick reply",
+        "timestamp": 1781675056525
+      },
+      {
+        "id": "cf9d55b9-9a85-4bd6-8b6a-9835c653eee3",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675060697
+      },
+      {
+        "id": "b1a01521-421e-41de-8cd6-ab659420a377",
+        "role": "user",
+        "content": "Message 19: quick reply",
+        "timestamp": 1781675061011
+      },
+      {
+        "id": "ca4f2298-1bef-44d6-b30f-721bef662318",
+        "role": "assistant",
+        "content": "Got it — what do you need?",
+        "timestamp": 1781675064155
+      },
+      {
+        "id": "9c4c435e-a00f-430a-bb9a-898a573c99ae",
+        "role": "user",
+        "content": "Message 20: quick reply",
+        "timestamp": 1781675064464
+      },
+      {
+        "id": "4bde6b50-d5ee-4e64-b9e1-f789c0c0ed4f",
+        "role": "assistant",
+        "content": "Got it — what's up?",
+        "timestamp": 1781675068603
+      },
+      {
+        "id": "5dbbd81c-12d6-4e99-9fd9-193dc16f4d1c",
+        "role": "user",
+        "content": "Message 21: quick reply",
+        "timestamp": 1781675069003
+      },
+      {
+        "id": "dbfdb5a3-30ae-4788-80c8-c9bdf90f7b8a",
+        "role": "assistant",
+        "content": "Hey! What's up?",
+        "timestamp": 1781675073891
+      },
+      {
+        "id": "467df726-db02-4b28-ab9e-09bf0f34e175",
+        "role": "user",
+        "content": "Message 22: quick reply",
+        "timestamp": 1781675074200
+      },
+      {
+        "id": "6fad4afe-6f73-4d09-b006-45cbbe544b1a",
+        "role": "assistant",
+        "content": "What would you like to chat about?",
+        "timestamp": 1781675077736
+      },
+      {
+        "id": "bc1599f8-2211-4c20-a4d3-ed14d322ffa1",
+        "role": "user",
+        "content": "Message 23: quick reply",
+        "timestamp": 1781675078047
+      },
+      {
+        "id": "4c76bacb-dc7d-4f76-9656-dd10fe273b08",
+        "role": "assistant",
+        "content": "Got it — what's up?",
+        "timestamp": 1781675081463
+      },
+      {
+        "id": "dcfa273a-9cc3-4d77-99b3-53f345e3673e",
+        "role": "user",
+        "content": "Message 24: quick reply",
+        "timestamp": 1781675081794
+      }
+    ],
+    "post-restart-claude-opus-4.7-0": [
+      {
+        "id": "349db611-efc0-4f9c-a440-2544562dc8e1",
+        "role": "user",
+        "content": "Hello",
+        "timestamp": 1781675113068
+      },
+      {
+        "id": "c5aee9e7-18c0-4a64-881e-064a6ba5894a",
+        "role": "assistant",
+        "content": "Hi there! What can I help you with today?",
+        "timestamp": 1781675118114
+      }
+    ],
+    "post-restart-claude-opus-4.7-1": [
+      {
+        "id": "2adea901-5041-41d0-833e-a82cd601a2ec",
+        "role": "user",
+        "content": "What is 2+2?",
+        "timestamp": 1781675118478
+      },
+      {
+        "id": "1949da59-a4eb-4a0b-b62e-ed0efd439905",
+        "role": "assistant",
+        "content": "4",
+        "timestamp": 1781675122259
+      }
+    ],
+    "post-restart-claude-opus-4.7-2": [
+      {
+        "id": "90641f94-a2e9-4827-b89d-ebafe4ef8115",
+        "role": "user",
+        "content": "Write Python hello world.",
+        "timestamp": 1781675122622
+      },
+      {
+        "id": "b1b6e2bf-388f-4721-890a-9252e66ee2a0",
+        "role": "assistant",
+        "content": "```python\nprint(\"Hello, World!\")\n```\n\nSave it as `hello.py` and run it with `python hello.py`.",
+        "timestamp": 1781675126341
+      }
+    ],
+    "post-restart-claude-opus-4.7-3": [
+      {
+        "id": "40f4f766-c816-401d-af7f-262637f8928d",
+        "role": "user",
+        "content": "Tell me a joke.",
+        "timestamp": 1781675126701
+      },
+      {
+        "id": "821fe60f-d3e0-4d35-afb1-61a1dff402f9",
+        "role": "assistant",
+        "content": "Why don't scientists trust atoms?\n\nBecause they make up everything.",
+        "timestamp": 1781675130426
+      }
+    ],
+    "post-restart-claude-opus-4.7-4": [
+      {
+        "id": "b7940d7e-2c0c-4575-97e1-ca8448370804",
+        "role": "user",
+        "content": "Explain AI briefly.",
+        "timestamp": 1781675130853
+      },
+      {
+        "id": "b584f960-db34-4314-9313-695a2cf34cf5",
+        "role": "assistant",
+        "content": "Artificial intelligence (AI) is the field of building computer systems that perform tasks we'd normally associate with human thinking — recognizing speech, understanding images, making decisions, generating text, or learning from experience.\n\nAt its core, modern AI works by finding patterns in large amounts of data. Instead of programmers writing explicit rules for every situation, models are *trained*: they adjust millions (or billions) of internal parameters until they reliably map inputs to useful outputs. A spam filter learns what spam looks like from examples; a language model learns how words tend to follow one another by reading vast amounts of text.\n\nA few useful distinctions:\n\n- **Narrow AI** — systems built for specific tasks (translation, fraud detection, chess). This is essentially all AI in use today.\n- **Machine learning** — the dominant approach, where systems learn from data rather than being hand-coded.\n- **Deep learning** — a subset of machine learning using layered neural networks, responsible for most recent breakthroughs.\n- **Generative AI** — models that produce new content (text, images, audio, code), like the system you're talking to right now.\n\nAI is powerful but not magical. It reflects the data it was trained on, which means it can be biased, confidently wrong, or brittle outside familiar situations. It doesn't \"understand\" in the human sense — it predicts likely patterns. That's why it works remarkably well for some tasks and fails strangely at others.",
+        "timestamp": 1781675140978
+      }
+    ],
+    "post-restart-claude-opus-4.7-5": [
+      {
+        "id": "5a93fd84-b6c9-42b5-83c9-4a4d6dec2496",
+        "role": "user",
+        "content": "What is TypeScript?",
+        "timestamp": 1781675141340
+      }
+    ]
+  }
+}

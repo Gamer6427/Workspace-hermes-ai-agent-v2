@@ -10,6 +10,7 @@ channel = "stable-25_05"
 
 [userenv.shared]
 PORT = "5000"
+MODEL_API_TOKEN = "Fh2uj3K9j6XdoUi4H2WyvEAVa7qzUZXL"
 
 [workflows]
 runButton = "Project"
