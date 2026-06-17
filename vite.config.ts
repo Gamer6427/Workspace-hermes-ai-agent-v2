@@ -535,6 +535,9 @@ const config = defineConfig(({ mode, command }) => {
           '**/.cursor/**',
           // Loose log files.
           '**/*.log',
+          // pnpm store — contains thousands of files that must not be watched.
+          '**/.local/share/pnpm/**',
+          '**/node_modules/.pnpm/**',
         ],
       },
       proxy: {
