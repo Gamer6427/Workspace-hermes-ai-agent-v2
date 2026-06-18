@@ -1,0 +1,29 @@
+services:
+  - type: web
+    name: hermes-workspace
+    runtime: docker
+    plan: starter
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    healthCheckPath: /
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: PORT
+        value: 3000
+      - key: HOST
+        value: 0.0.0.0
+      - key: HERMES_API_URL
+        sync: false
+      - key: HERMES_DASHBOARD_URL
+        sync: false
+      - key: HERMES_API_TOKEN
+        sync: false
+      - key: MODEL_API_TOKEN
+        sync: false
+      - key: HERMES_PASSWORD
+        generateValue: true
+      - key: COOKIE_SECURE
+        value: "true"
+      - key: TRUST_PROXY
+        value: "true"
