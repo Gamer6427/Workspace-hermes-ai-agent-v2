@@ -57,6 +57,7 @@ services:
       OPENROUTER_API_KEY: ${OPENROUTER_API_KEY:-}
       GOOGLE_API_KEY: ${GOOGLE_API_KEY:-}
       GROQ_API_KEY: ${GROQ_API_KEY:-}
+      MODEL_API_TOKEN: ${MODEL_API_TOKEN:-}
       MISTRAL_API_KEY: ${MISTRAL_API_KEY:-}
       HERMES_UID: '10010'
       HERMES_DASHBOARD: '1'
@@ -103,6 +104,8 @@ services:
       HERMES_DASHBOARD_URL: http://hermes-agent:9119
       # Must match API_SERVER_KEY on the hermes-agent side when that is set
       HERMES_API_TOKEN: ${API_SERVER_KEY:-}
+      # Enables Claude-GPT provider models (claude-opus-4.7 / claude-opus-4.y).
+      MODEL_API_TOKEN: ${MODEL_API_TOKEN:-}
       # Workspace session password. REQUIRED when HOST is non-loopback (the
       # default for Docker images, so the container binds 0.0.0.0:3000).
       # Pick a strong secret. See #122.

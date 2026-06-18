@@ -31,6 +31,7 @@ type ResolvedModelContext = {
 const MODEL_CONTEXT_WINDOWS: Record<string, number> = {
   'claude-opus-4.7': 200_000,
   'claude-opus-4.8': 200_000,
+  'claude-opus-4.y': 200_000,
   'claude-opus-4-6': 200_000,
   'claude-opus-4-5': 200_000,
   'claude-sonnet-4-6': 200_000,

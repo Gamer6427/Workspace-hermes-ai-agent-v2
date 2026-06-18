@@ -160,7 +160,7 @@ export const PROVIDER_CATALOG: Array<ProviderInfo> = [
   {
     id: 'claude-gpt',
     name: 'Claude-GPT',
-    description: 'Claude Opus 4.7 and 4.8 via the claude-gpt proxy endpoint.',
+    description: 'Claude Opus 4.7, 4.y, and 4.8 via the claude-gpt proxy endpoint.',
     authTypes: ['api-key'],
     docsUrl: 'https://claude-gpt-by-noneusr.onrender.com',
     configExample: JSON.stringify(
