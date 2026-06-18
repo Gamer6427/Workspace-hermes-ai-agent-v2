@@ -100,6 +100,23 @@ function getClaudeGptStaticModels(): Array<ModelEntry> {
 }
 
 /**
+ * Return the static noneusr-claude model entries (always available when NONEUSR_MODEL_API_TOKEN is set).
+ * These share the same underlying model IDs as claude-gpt but are surfaced under the
+ * noneusr-claude provider identifier, matching what Service 1 exposes via /v1/models.
+ */
+const NONEUSR_CLAUDE_MODEL_IDS = ['claude-opus-4.7', 'claude-opus-4.8'] as const
+
+function getNonEusrClaudeStaticModels(): Array<ModelEntry> {
+  if (!process.env.NONEUSR_MODEL_API_TOKEN) return []
+  return NONEUSR_CLAUDE_MODEL_IDS.map((id) => ({
+    id,
+    name: getClaudeGptModelName(id),
+    provider: 'noneusr-claude',
+    source: 'static',
+  }))
+}
+
+/**
  * Read user-configured models from active profile's models.json.
  */
 function readClaudeModelsJson(): Array<ModelEntry> {
@@ -482,6 +499,14 @@ export const Route = createFileRoute('/api/models')({
           models = mergeModelEntries(models, localModels)
           for (const m of localModels) {
             ensureProviderInConfig(m.provider)
+          }
+
+          // Merge static noneusr-claude models (available when NONEUSR_MODEL_API_TOKEN is set).
+          // Merged before claude-gpt so the noneusr-claude provider wins deduplication when both
+          // tokens are present and the models share the same ID.
+          const nonEusrModels = getNonEusrClaudeStaticModels()
+          if (nonEusrModels.length > 0) {
+            models = mergeModelEntries(models, nonEusrModels)
           }
 
           // Merge static claude-gpt models (available when MODEL_API_TOKEN is set)

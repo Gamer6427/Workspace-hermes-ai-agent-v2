@@ -23,8 +23,17 @@ export const CLAUDE_GPT_MODEL_IDS = [
 
 export type ClaudeGptModelId = (typeof CLAUDE_GPT_MODEL_IDS)[number]
 
+/** Strip optional provider prefix (e.g. "noneusr-claude/claude-opus-4.7" → "claude-opus-4.7"). */
+function bareModelId(model: string): string {
+  return model.includes('/') ? model.split('/').slice(1).join('/') : model
+}
+
 export function isClaudeGptModel(model: string): boolean {
-  return CLAUDE_GPT_MODEL_IDS.includes(model as ClaudeGptModelId)
+  const bare = bareModelId(model)
+  return (
+    (CLAUDE_GPT_MODEL_IDS as readonly string[]).includes(bare) ||
+    (CLAUDE_GPT_MODEL_IDS as readonly string[]).includes(model)
+  )
 }
 
 export function getClaudeGptModelName(model: string): string {
@@ -44,7 +53,11 @@ type ClaudeGptResponse = {
 }
 
 function getToken(): string {
-  return process.env.MODEL_API_TOKEN ?? ''
+  return (
+    process.env.NONEUSR_MODEL_API_TOKEN ??
+    process.env.MODEL_API_TOKEN ??
+    ''
+  )
 }
 
 export const CLAUDE_GPT_TIMEOUT_MS =
@@ -135,7 +148,7 @@ export async function callClaudeGpt(
   const token = getToken()
   if (!token) {
     throw new Error(
-      'MODEL_API_TOKEN is not configured. Add it to your workspace environment before using Claude-GPT models.',
+      'NONEUSR_MODEL_API_TOKEN (or MODEL_API_TOKEN) is not configured. Add it to your workspace environment before using Claude-GPT / Nous Claude models.',
     )
   }
 
@@ -144,8 +157,11 @@ export async function callClaudeGpt(
     throw new Error('Cannot send an empty message to Claude-GPT.')
   }
 
+  // Strip provider prefix so the API receives the bare model ID
+  // e.g. "noneusr-claude/claude-opus-4.7" → "claude-opus-4.7"
+  const resolvedModel = bareModelId(model)
   const encodedMessage = encodeURIComponent(trimmed)
-  const url = `${CLAUDE_GPT_BASE_URL}/${encodeURIComponent(model)}/message/${encodedMessage}?token=${encodeURIComponent(token)}`
+  const url = `${CLAUDE_GPT_BASE_URL}/${encodeURIComponent(resolvedModel)}/message/${encodedMessage}?token=${encodeURIComponent(token)}`
 
   let lastError: Error | null = null
 

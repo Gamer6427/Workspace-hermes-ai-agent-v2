@@ -45,6 +45,7 @@ const PROVIDER_LABELS: Record<string, string> = {
   google: 'Google',
   minimax: 'MiniMax',
   'claude-gpt': 'Claude-GPT',
+  'noneusr-claude': 'Nous Claude',
 }
 
 export function formatModelName(raw: string | undefined | null): string {

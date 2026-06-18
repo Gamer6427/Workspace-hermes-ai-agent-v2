@@ -178,6 +178,27 @@ export const PROVIDER_CATALOG: Array<ProviderInfo> = [
       2,
     ),
   },
+  {
+    id: 'noneusr-claude',
+    name: 'Nous Claude',
+    description: 'Claude Opus 4.7 and 4.8 via the Hermes Agent noneusr-claude provider.',
+    authTypes: ['api-key'],
+    docsUrl: 'https://claude-gpt-by-noneusr.onrender.com',
+    configExample: JSON.stringify(
+      {
+        auth: {
+          profiles: {
+            'noneusr-claude:default': {
+              provider: 'noneusr-claude',
+              apiKey: 'your-noneusr-model-api-token',
+            },
+          },
+        },
+      },
+      null,
+      2,
+    ),
+  },
 ]
 
 export function normalizeProviderId(value: string): string {

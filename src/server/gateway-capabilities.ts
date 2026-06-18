@@ -259,7 +259,11 @@ let dashboardTokenPromise: Promise<string> | null = null
 let dashboardTokenCache = ''
 
 /** Optional bearer token for authenticated gateway endpoints. */
-export const BEARER_TOKEN = process.env.HERMES_API_TOKEN || process.env.CLAUDE_API_TOKEN || ''
+export const BEARER_TOKEN =
+  process.env.HERMES_API_TOKEN ||
+  process.env.CLAUDE_API_TOKEN ||
+  process.env.NONEUSR_MODEL_API_TOKEN ||
+  ''
 
 /**
  * Dashboard API auth uses the ephemeral session token injected into the
