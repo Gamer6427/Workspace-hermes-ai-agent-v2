@@ -1,0 +1,29 @@
+{
+  "extends": "./tsconfig.json",
+  "include": [
+    "src/server/claude-gpt-provider.ts",
+    "src/server/openai-compat-api.ts",
+    "src/server/responses-api.ts",
+    "src/server/claude-api.ts",
+    "src/server/gateway-capabilities.ts",
+    "src/lib/provider-catalog.ts",
+    "src/lib/model-info.ts",
+    "src/lib/model-types.ts",
+    "src/lib/send-stream-session-headers.ts",
+    "src/hooks/use-chat-stream.ts",
+    "src/screens/chat/local-model-override.ts"
+  ],
+  "exclude": [
+    "dist",
+    "electron/server-bundle.cjs",
+    "node_modules",
+    "playground-ws-worker",
+    "e2e",
+    "**/*.test.ts",
+    "**/*.test.tsx"
+  ],
+  "compilerOptions": {
+    "lib": ["ES2023", "DOM", "DOM.Iterable"],
+    "types": ["vite/client", "node"]
+  }
+}
