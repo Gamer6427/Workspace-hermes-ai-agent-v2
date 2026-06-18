@@ -15,7 +15,10 @@ import {
   ensureProviderInConfig,
   getDiscoveredModels,
 } from '../../server/local-provider-discovery'
-import { CLAUDE_GPT_MODEL_IDS } from '../../server/claude-gpt-provider'
+import {
+  CLAUDE_GPT_MODEL_IDS,
+  getClaudeGptModelName,
+} from '../../server/claude-gpt-provider'
 
 const CLAUDE_HOME = process.env.HERMES_HOME ?? process.env.CLAUDE_HOME ?? path.join(os.homedir(), '.hermes')
 const MODELS_PATH = path.join(CLAUDE_HOME, 'models.json')
@@ -90,7 +93,7 @@ function getClaudeGptStaticModels(): Array<ModelEntry> {
   if (!process.env.MODEL_API_TOKEN) return []
   return CLAUDE_GPT_MODEL_IDS.map((id) => ({
     id,
-    name: id === 'claude-opus-4.7' ? 'Claude Opus 4.7' : 'Claude Opus 4.8',
+    name: getClaudeGptModelName(id),
     provider: 'claude-gpt',
     source: 'static',
   }))

@@ -14,6 +14,7 @@ const MODEL_MAP: Record<string, string> = {
   'claude-opus-4-6': 'Claude Opus 4.6',
   'claude-opus-4.7': 'Claude Opus 4.7',
   'claude-opus-4.8': 'Claude Opus 4.8',
+  'claude-opus-4.y': 'Claude Opus 4.y',
   'claude-3-5-sonnet': 'Claude 3.5 Sonnet',
   'claude-3-5-haiku': 'Claude 3.5 Haiku',
   'gpt-4o': 'GPT-4o',

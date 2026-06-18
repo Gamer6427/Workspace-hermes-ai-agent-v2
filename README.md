@@ -236,6 +236,7 @@ HERMES_API_URL=http://127.0.0.1:8642
 # OPENAI_API_KEY=sk-...                # GPT / o-series / OpenAI-compatible
 # OPENROUTER_API_KEY=sk-or-v1-...      # OpenRouter (incl. free models)
 # GOOGLE_API_KEY=AIza...               # Gemini
+# MODEL_API_TOKEN=...                  # Claude-GPT proxy models (claude-opus-4.7 / 4.y)
 # (Ollama / LM Studio / local servers don't need a key)
 
 # Optional: password-protect the web UI
@@ -391,6 +392,9 @@ HERMES_DASHBOARD_URL=http://127.0.0.1:9119
 # Only if your gateway was started with API_SERVER_KEY=... — paste the same value:
 # HERMES_API_TOKEN=***
 
+# Optional: enables Claude-GPT provider models in the workspace model picker.
+# MODEL_API_TOKEN=***
+
 # Optional: password-protect the web UI itself
 # HERMES_PASSWORD=***
 ```
@@ -446,6 +450,7 @@ Edit `.env` and add **at least one** LLM provider key — whichever provider you
 # OPENAI_API_KEY=sk-...                # GPT / o-series / OpenAI-compatible
 # OPENROUTER_API_KEY=sk-or-v1-...      # OpenRouter (free models available)
 # GOOGLE_API_KEY=AIza...               # Gemini
+# MODEL_API_TOKEN=...                  # Claude-GPT proxy models
 ```
 
 Using **Ollama, LM Studio, or another local server**? No key needed — just point hermes-agent at your local endpoint via the onboarding flow.
